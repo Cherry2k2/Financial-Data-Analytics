@@ -1,0 +1,502 @@
+Company Name,Industry,Sector,Ticker,Share Price,Market Cap,Enterprise Value,Trailing P/E,PB,Beta,52 Week High,52 Week Low,50-Day Moving Average,No. of employees,Indicator,Indicator_2
+360 ONE WAM Ltd.,Financial Services,Financial Services,360ONE,689.65,249.51B,317.92B,35.56,7.65,0.50,788.95,395.10,674.75,"1,052",,Above 50 day moving avg
+3M India Ltd.,Diversified,Industrials,3MINDIA,"29,538.05",339.28B,329.35B,62.14,18.44,0.29,"39,876.10","21,730.00","32,378.75","1,108",,Below 50 day moving avg.
+ABB India Ltd.,Capital Goods,Industrials,ABB,"5,740.00",1.20T,1.15T,95.51,20.05,0.69,"5,933.90","3,141.15","4,995.48",,Close to 52 week High,Above 50 day moving avg
+ACC Ltd.,Construction Materials,Basic Materials,ACC,"2,440.65",466.67B,427.37B,57.20,3.15,0.35,"2,746.40","1,592.35","2,514.63","5,167",,Below 50 day moving avg.
+AIA Engineering Ltd.,Capital Goods,Industrials,AIAENG,"3,594.50",341.06B,309.38B,29.83,5.56,0.40,"4,630.00","2,620.00","3,826.52","1,474",,Below 50 day moving avg.
+APL Apollo Tubes Ltd.,Capital Goods,Basic Materials,APLAPOLLO,"1,551.95",414.84B,416.85B,57.90,12.65,0.76,"1,800.00","1,047.00","1,489.93","2,587",,Above 50 day moving avg
+AU Small Finance Bank Ltd.,Financial Services,Financial Services,AUBANK,575.95,390.78B,N/A,24.65,3.32,0.79,813.40,548.00,641.26,"28,320",,Below 50 day moving avg.
+Aarti Drugs Ltd.,Healthcare,Healthcare,AARTIDRUGS,454.10,42.13B,47.77B,23.45,3.49,0.90,645.75,332.05,512.18,"1,003",,Below 50 day moving avg.
+Aarti Industries Ltd.,Chemicals,Basic Materials,AARTIIND,642.40,233.96B,259.71B,54.05,4.66,0.65,712.00,438.00,651.02,"6,185",,Below 50 day moving avg.
+Aavas Financiers Ltd.,Financial Services,Financial Services,AAVAS,"1,380.00",109.10B,197.66B,22.99,3.11,0.66,"1,817.60","1,321.00","1,459.57","6,034",Close to 52 week low,Below 50 day moving avg.
+Abbott India Ltd.,Healthcare,Healthcare,ABBOTINDIA,"28,645.25",601.19B,581.95B,52.51,19.35,0.06,"29,638.95","20,605.05","27,322.16","3,700",Close to 52 week High,Above 50 day moving avg
+Adani Energy Solutions Ltd.,Power,Utilities,ADANIENSOL,"1,025.65",1.17T,1.48T,101.06,9.89,1.13,"1,250.00",686.00,"1,077.39","5,002",,Below 50 day moving avg.
+Adani Enterprises Ltd.,Metals & Mining,Energy,ADANIENT,"3,134.95",3.52T,3.99T,100.18,9.60,0.84,"3,350.00","1,573.00","3,138.13","6,647",,Below 50 day moving avg.
+Adani Green Energy Ltd.,Power,Utilities,ADANIGREEN,"1,877.45",3.00T,3.52T,224.03,37.84,1.11,"2,018.95",795.60,"1,802.35","1,436",,Above 50 day moving avg
+Adani Ports and Special Economic Zone Ltd.,Services,Industrials,ADANIPORTS,"1,270.05",2.74T,3.14T,37.89,5.62,0.57,"1,356.55",571.55,"1,251.55","2,959",,Above 50 day moving avg
+Adani Power Ltd.,Power,Utilities,ADANIPOWER,526.10,2.07T,2.36T,10.68,5.12,0.61,589.45,166.40,550.69,"3,541",,Below 50 day moving avg.
+Adani Total Gas Ltd.,Oil Gas & Consumable Fuels,Utilities,ATGL,966.15,1.07T,1.08T,179.24,33.08,1.36,"1,259.40",522.00,"1,012.80",550,,Below 50 day moving avg.
+Adani Wilmar Ltd.,Fast Moving Consumer Goods,Consumer Defensive,AWL,341.80,451.31B,452.84B,534.54,5.67,-0.37,509.00,285.80,358.05,"2,600",,Below 50 day moving avg.
+Aditya Birla Capital Ltd.,Financial Services,Financial Services,ABCAPITAL,173.95,449.79B,1.42T,16.28,1.82,0.98,199.30,139.25,179.00,"34,681",,Below 50 day moving avg.
+Aditya Birla Fashion and Retail Ltd.,Consumer Services,Consumer Cyclical,ABFRL,208.05,203.07B,299.39B,54.89,6.91,0.14,266.00,184.40,231.70,"28,390",,Below 50 day moving avg.
+Aegis Logistics Ltd.,Oil Gas & Consumable Fuels,Energy,AEGISCHEM,396.35,130.61B,135.34B,25.35,3.57,0.84,471.90,280.00,399.57,806,,Below 50 day moving avg.
+Aether Industries Ltd.,Chemicals,Basic Materials,AETHER,816.45,104.85B,102.88B,84.79,5.13,N/A,"1,209.00",778.00,857.01,889,Close to 52 week low,Below 50 day moving avg.
+Affle (India) Ltd.,Information Technology,Communication Services,AFFLE,"1,030.20",144.88B,140.76B,51.06,9.09,1.22,"1,336.90",866.50,"1,165.25",551,,Below 50 day moving avg.
+Ajanta Pharmaceuticals Ltd.,Healthcare,Healthcare,AJANTPHARM,"2,117.45",267.34B,262.85B,36.49,7.68,0.01,"2,353.95","1,131.70","2,162.07","7,713",,Below 50 day moving avg.
+Alembic Pharmaceuticals Ltd.,Healthcare,Healthcare,APLLTD,951.90,182.64B,189.74B,30.88,4.08,0.69,"1,094.00",462.30,970.21,"14,593",,Below 50 day moving avg.
+Alkem Laboratories Ltd.,Healthcare,Healthcare,ALKEM,"4,952.35",596.07B,572.15B,37.89,6.06,0.34,"5,520.00","3,099.15","5,113.56","16,871",,Below 50 day moving avg.
+Alkyl Amines Chemicals Ltd.,Chemicals,Basic Materials,ALKYLAMINE,"1,987.30",100.54B,101.31B,63.28,8.41,0.70,"2,797.70","1,957.05","2,247.17",700,Close to 52 week low,Below 50 day moving avg.
+Allcargo Logistics Ltd.,Services,Industrials,ALLCARGO,66.75,68.14B,77.17B,12.95,2.68,0.82,98.00,61.41,79.23,739,,Below 50 day moving avg.
+Alok Industries Ltd.,Textiles,Consumer Cyclical,ALOKINDS,27.55,139.23B,377.47B,0.55,N/A,0.64,39.05,10.90,30.56,"22,699",,Below 50 day moving avg.
+Amara Raja Energy & Mobility Ltd.,Automobile and Auto Components,Industrials,ARE&M,789.45,146.15B,140.01B,16.79,2.58,0.90,915.55,599.00,838.97,"7,993",,Below 50 day moving avg.
+Amber Enterprises India Ltd.,Consumer Durables,Consumer Cyclical,AMBER,"3,298.20",117.74B,128.50B,82.81,6.02,-0.10,"4,614.20","1,762.50","3,862.11","1,615",,Below 50 day moving avg.
+Ambuja Cements Ltd.,Construction Materials,Basic Materials,AMBUJACEM,586.10,1.16T,1.03T,64.50,3.51,0.12,625.00,354.30,570.49,"4,361",,Above 50 day moving avg
+Angel One Ltd.,Financial Services,Financial Services,ANGELONE,"2,539.00",222.62B,161.77B,21.37,8.52,-0.11,"3,896.00","1,072.00","3,108.97","3,118",,Below 50 day moving avg.
+Anupam Rasayan India Ltd.,Chemicals,Basic Materials,ANURAS,910.00,101.42B,107.56B,58.17,4.16,0.34,"1,234.00",746.10,931.92,"1,664",,Below 50 day moving avg.
+Apar Industries Ltd.,Capital Goods,Industrials,APARINDS,"6,086.45",229.80B,228.89B,26.43,9.34,-0.16,"6,541.55","2,250.00","5,959.87","1,807",,Above 50 day moving avg
+Apollo Hospitals Enterprise Ltd.,Healthcare,Healthcare,APOLLOHOSP,"6,064.95",866.04B,899.31B,109.71,13.31,0.55,"6,874.45","4,168.00","6,245.83","83,147",,Below 50 day moving avg.
+Apollo Tyres Ltd.,Automobile and Auto Components,Consumer Cyclical,APOLLOTYRE,450.80,319.36B,362.25B,17.38,2.46,0.90,557.90,303.50,512.66,"7,835",,Below 50 day moving avg.
+Aptus Value Housing Finance India Ltd.,Financial Services,Financial Services,APTUS,313.75,158.53B,N/A,27.30,4.48,0.38,392.00,235.05,349.96,"2,405",,Below 50 day moving avg.
+Archean Chemical Industries Ltd.,Chemicals,Basic Materials,ACI,615.25,72.64B,69.25B,18.01,4.63,N/A,837.70,494.15,658.85,265,,Below 50 day moving avg.
+Asahi India Glass Ltd.,Automobile and Auto Components,Consumer Cyclical,ASAHIINDIA,506.65,126.54B,140.37B,39.12,5.70,0.45,651.00,419.65,538.85,"2,506",,Below 50 day moving avg.
+Ashok Leyland Ltd.,Capital Goods,Industrials,ASHOKLEY,162.30,481.56B,775.95B,20.26,5.43,0.86,191.50,133.10,172.33,"9,603",,Below 50 day moving avg.
+Asian Paints Ltd.,Consumer Durables,Basic Materials,ASIANPAINT,"2,823.95",2.77T,2.74T,51.01,16.74,0.29,"3,568.00","2,708.65","2,988.06","8,056",Close to 52 week low,Below 50 day moving avg.
+Aster DM Healthcare Ltd.,Healthcare,Healthcare,ASTERDM,431.25,211.65B,265.03B,65.30,4.84,0.62,495.90,231.55,440.66,"30,330",,Below 50 day moving avg.
+Astral Ltd.,Capital Goods,Industrials,ASTRAL,"1,945.95",541.46B,536.99B,96.17,18.66,0.43,"2,143.80","1,297.80","1,934.26",,,Above 50 day moving avg
+Atul Ltd.,Chemicals,Basic Materials,ATUL,"6,033.05",175.58B,173.26B,49.13,3.58,0.38,"7,589.90","5,922.35","6,368.63","3,188",Close to 52 week low,Below 50 day moving avg.
+Aurobindo Pharma Ltd.,Healthcare,Healthcare,AUROPHARMA,"1,009.00",592.56B,584.68B,21.41,2.10,0.58,"1,177.10",466.00,"1,068.87","23,451",,Below 50 day moving avg.
+Avanti Feeds Ltd.,Fast Moving Consumer Goods,Consumer Defensive,AVANTIFEED,503.50,68.10B,52.66B,19.69,3.11,0.66,598.50,321.10,518.05,"1,199",,Below 50 day moving avg.
+Avenue Supermarts Ltd.,Consumer Services,Consumer Defensive,DMART,"3,990.05",2.60T,2.59T,107.50,15.01,0.16,"4,206.00","3,300.00","3,809.63","12,108",,Above 50 day moving avg
+Axis Bank Ltd.,Financial Services,Financial Services,AXISBANK,"1,059.20",3.27T,N/A,24.53,2.19,0.89,"1,151.85",826.05,"1,083.24","91,898",,Below 50 day moving avg.
+BEML Ltd.,Capital Goods,Industrials,BEML,"2,864.95",115.40B,119.14B,63.14,4.87,1.08,"4,144.25","1,181.80","3,189.15","5,103",,Below 50 day moving avg.
+BLS International Services Ltd.,Consumer Services,Industrials,BLS,339.45,141.13B,134.08B,46.81,14.82,0.82,429.95,149.65,374.09,"60,000",,Below 50 day moving avg.
+BSE Ltd.,Financial Services,Financial Services,BSE,"2,037.65",277.49B,222.83B,39.88,8.95,0.67,"2,598.95",406.20,"2,279.00",498,,Below 50 day moving avg.
+Bajaj Auto Ltd.,Automobile and Auto Components,Consumer Cyclical,BAJAJ-AUTO,"8,565.85",2.37T,2.31T,32.02,8.09,0.89,"9,025.00","3,769.55","7,904.44","6,838",,Above 50 day moving avg
+Bajaj Finance Ltd.,Financial Services,Financial Services,BAJFINANCE,"6,532.75",3.95T,N/A,28.27,6.60,0.94,"8,192.00","5,522.70","6,820.47","43,147",,Below 50 day moving avg.
+Bajaj Finserv Ltd.,Financial Services,Financial Services,BAJAJFINSV,"1,560.20",2.49T,4.41T,32.31,4.89,1.01,"1,741.00","1,215.00","1,601.70","73,340",,Below 50 day moving avg.
+Bajaj Holdings & Investment Ltd.,Financial Services,Financial Services,BAJAJHLDNG,"8,232.20",914.53B,N/A,15.52,1.87,0.62,"9,348.95","5,770.00","8,485.80",18,,Below 50 day moving avg.
+Balaji Amines Ltd.,Chemicals,Basic Materials,BALAMINES,"2,096.95",66.65B,63.60B,36.18,4.14,1.19,"2,735.00","1,880.00","2,311.56","1,111",,Below 50 day moving avg.
+Balkrishna Industries Ltd.,Automobile and Auto Components,Consumer Cyclical,BALKRISIND,"2,268.55",438.40B,456.62B,35.22,5.33,0.78,"2,782.65","1,908.90","2,415.11","3,472",,Below 50 day moving avg.
+Balrampur Chini Mills Ltd.,Fast Moving Consumer Goods,Consumer Defensive,BALRAMCHIN,358.85,71.83B,75.54B,12.33,2.28,0.85,485.90,343.50,381.24,"6,270",Close to 52 week low,Below 50 day moving avg.
+Bandhan Bank Ltd.,Financial Services,Financial Services,BANDHANBNK,182.00,289.41B,N/A,9.71,1.39,1.11,272.00,173.15,210.04,"69,702",,Below 50 day moving avg.
+Bank of Baroda,Financial Services,Financial Services,BANKBARODA,254.55,1.34T,N/A,7.10,1.13,0.73,285.60,158.50,253.89,"78,122",,Above 50 day moving avg
+Bank of India,Financial Services,Financial Services,BANKINDIA,134.05,593.44B,N/A,8.41,0.86,1.30,156.25,67.60,136.09,"52,209",,Below 50 day moving avg.
+Bank of Maharashtra,Financial Services,Financial Services,MAHABANK,59.45,412.99B,N/A,10.98,1.17,1.01,69.45,22.80,57.15,"12,977",,Above 50 day moving avg
+Bata India Ltd.,Consumer Durables,Consumer Cyclical,BATAINDIA,"1,364.75",177.12B,188.71B,1.85k,12.89,0.59,"1,771.45","1,360.20","1,456.36","4,421",Close to 52 week low,Below 50 day moving avg.
+Bayer Cropscience Ltd.,Chemicals,Basic Materials,BAYERCROP,"5,058.20",227.08B,221.60B,28.44,7.29,0.34,"6,201.25","3,920.45","5,745.64","1,321",,Below 50 day moving avg.
+Berger Paints India Ltd.,Consumer Durables,Basic Materials,BERGEPAINT,548.55,658.82B,665.92B,58.19,13.61,0.34,679.75,471.00,570.36,"4,088",,Below 50 day moving avg.
+Bharat Dynamics Ltd.,Capital Goods,Industrials,BDL,"1,680.85",307.19B,260.30B,N/A,9.11,0.80,"1,984.80",878.50,"1,739.14","2,549",,Below 50 day moving avg.
+Bharat Electronics Ltd.,Capital Goods,Industrials,BEL,189.45,1.39T,1.30T,38.83,9.37,0.37,216.80,89.90,192.30,"11,458",,Below 50 day moving avg.
+Bharat Forge Ltd.,Capital Goods,Consumer Cyclical,BHARATFORG,"1,113.05",517.92B,570.07B,61.00,7.40,1.05,"1,330.00",743.55,"1,192.47","4,265",,Below 50 day moving avg.
+Bharat Heavy Electricals Ltd.,Capital Goods,Industrials,BHEL,226.25,788.34B,816.82B,17.74,3.02,1.10,275.85,67.60,225.61,"44,522",,Above 50 day moving avg
+Bharat Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,Energy,BPCL,572.90,1.32T,1.63T,4.48,1.85,1.00,687.95,327.00,566.51,"8,713",,Above 50 day moving avg
+Bharti Airtel Ltd.,Telecommunication,Communication Services,BHARTIARTL,"1,227.40",7.25T,8.96T,84.45,9.36,0.19,"1,230.55",738.85,"1,139.95","21,575",Close to 52 week High,Above 50 day moving avg
+Bikaji Foods International Ltd.,Fast Moving Consumer Goods,Consumer Defensive,BIKAJI,489.30,122.19B,121.94B,68.19,11.68,N/A,605.90,343.00,547.11,"2,302",,Below 50 day moving avg.
+Biocon Ltd.,Healthcare,Healthcare,BIOCON,252.30,299.69B,442.90B,24.99,1.58,0.42,307.10,191.55,274.10,"16,545",,Below 50 day moving avg.
+Birla Corporation Ltd.,Construction Materials,Basic Materials,BIRLACORPN,"1,424.10",109.35B,140.34B,35.00,1.74,0.36,"1,802.00",865.50,"1,546.37","6,920",,Below 50 day moving avg.
+Birlasoft Ltd.,Information Technology,Technology,BSOFT,731.00,200.57B,187.21B,36.60,7.36,0.97,861.85,250.50,797.90,"12,193",,Below 50 day moving avg.
+Blue Dart Express Ltd.,Services,Industrials,BLUEDART,"5,556.10",132.76B,140.94B,45.33,10.90,0.28,"7,644.55","5,540.00","6,359.37","12,594",Close to 52 week low,Below 50 day moving avg.
+Blue Star Ltd.,Consumer Durables,Industrials,BLUESTARCO,"1,275.80",264.33B,262.11B,52.30,11.24,0.46,"1,359.00",672.53,"1,183.80","2,866",,Above 50 day moving avg
+Bombay Burmah Trading Corporation Ltd.,Fast Moving Consumer Goods,Consumer Defensive,BBTC,"1,570.55",113.34B,125.21B,N/A,2.84,0.72,"1,839.95",781.05,"1,680.16","2,959",,Below 50 day moving avg.
+Borosil Renewables Ltd.,Capital Goods,Consumer Cyclical,BORORENEW,504.05,64.60B,67.62B,568.39,6.90,1.96,669.35,380.00,550.36,719,,Below 50 day moving avg.
+Bosch Ltd.,Automobile and Auto Components,Consumer Cyclical,BOSCHLTD,"29,909.70",880.01B,846.75B,37.81,7.59,0.68,"30,468.05","17,931.15","26,210.52","38,700",Close to 52 week High,Above 50 day moving avg
+Brigade Enterprises Ltd.,Realty,Real Estate,BRIGADE,853.45,197.74B,231.65B,62.86,5.84,0.60,"1,108.00",450.00,971.97,"2,544",,Below 50 day moving avg.
+Brightcom Group Ltd.,Information Technology,Communication Services,BCG,15.60,31.63B,19.69B,2.24,0.45,1.12,36.45,9.35,18.53,,,Below 50 day moving avg.
+Britannia Industries Ltd.,Fast Moving Consumer Goods,Consumer Defensive,BRITANNIA,"4,936.15",1.20T,1.21T,55.51,42.12,0.48,"5,386.05","4,153.00","5,019.14","4,570",,Below 50 day moving avg.
+C.E. Info Systems Ltd.,Information Technology,Technology,MAPMYINDIA,"1,736.75",93.51B,90.37B,76.29,15.36,-0.15,"2,343.95",984.05,"1,870.83",475,,Below 50 day moving avg.
+CCL Products (I) Ltd.,Fast Moving Consumer Goods,Consumer Defensive,CCL,583.20,76.74B,86.70B,28.58,4.88,0.22,749.50,542.00,635.70,848,,Below 50 day moving avg.
+CESC Ltd.,Power,Utilities,CESC,117.30,152.64B,259.82B,10.83,1.33,0.73,149.90,62.10,132.30,"6,469",,Below 50 day moving avg.
+CG Power and Industrial Solutions Ltd.,Capital Goods,Industrials,CGPOWER,469.00,718.53B,705.60B,80.68,32.25,1.29,503.45,283.25,451.29,"2,771",,Above 50 day moving avg
+CIE Automotive India Ltd.,Automobile and Auto Components,Consumer Cyclical,CIEINDIA,439.30,162.94B,159.83B,20.45,2.72,0.67,579.75,331.65,470.77,,,Below 50 day moving avg.
+CRISIL Ltd.,Financial Services,Financial Services,CRISIL,"5,161.10",382.76B,371.40B,57.99,17.45,0.41,"5,250.00","3,019.30","4,509.14",,Close to 52 week High,Above 50 day moving avg
+CSB Bank Ltd.,Financial Services,Financial Services,CSBBANK,337.00,57.04B,N/A,10.26,1.64,0.68,422.25,224.45,372.93,"6,830",,Below 50 day moving avg.
+Campus Activewear Ltd.,Consumer Durables,Consumer Cyclical,CAMPUS,228.70,69.78B,72.96B,88.28,11.78,N/A,388.50,219.15,258.48,"1,054",Close to 52 week low,Below 50 day moving avg.
+Can Fin Homes Ltd.,Financial Services,Financial Services,CANFINHOME,718.10,97.09B,N/A,13.73,2.45,0.60,909.80,511.90,781.75,811,,Below 50 day moving avg.
+Canara Bank,Financial Services,Financial Services,CANBK,554.35,1.00T,N/A,6.84,1.12,0.95,606.30,272.35,529.92,"84,978",,Above 50 day moving avg
+Capri Global Capital Ltd.,Financial Services,Financial Services,CGCL,209.60,178.56B,255.75B,68.38,4.81,0.29,876.00,191.20,234.50,"7,602",,Below 50 day moving avg.
+Carborundum Universal Ltd.,Capital Goods,Industrials,CARBORUNIV,"1,090.20",207.16B,205.22B,44.81,7.24,0.62,"1,304.90",923.35,"1,113.42","2,160",,Below 50 day moving avg.
+Castrol India Ltd.,Oil Gas & Consumable Fuels,Energy,CASTROLIND,199.85,198.62B,187.55B,22.99,9.37,0.66,219.60,107.40,194.54,630,,Above 50 day moving avg
+Ceat Ltd.,Automobile and Auto Components,Consumer Cyclical,CEATLTD,"2,520.00",102.77B,122.02B,15.39,2.74,0.54,"2,993.75","1,360.00","2,707.76","8,207",,Below 50 day moving avg.
+Central Bank of India,Financial Services,Financial Services,CENTRALBK,58.75,507.31B,N/A,20.82,1.63,0.78,76.90,22.25,60.42,"30,770",,Below 50 day moving avg.
+Central Depository Services (India) Ltd.,Financial Services,Financial Services,CDSL,"1,696.20",176.32B,169.91B,49.95,14.37,0.49,"2,067.00",880.90,"1,837.84",279,,Below 50 day moving avg.
+Century Plyboards (India) Ltd.,Consumer Durables,Basic Materials,CENTURYPLY,647.20,143.97B,147.98B,39.79,6.94,0.57,849.50,436.00,737.26,"6,966",,Below 50 day moving avg.
+Century Textile & Industries Ltd.,Forest Materials,Basic Materials,CENTURYTEX,"1,426.55",156.07B,171.52B,82.03,4.15,0.37,"1,598.90",609.05,"1,442.38","4,310",,Below 50 day moving avg.
+Cera Sanitaryware Ltd,Consumer Durables,Industrials,CERA,"6,800.10",90.52B,83.66B,39.77,7.39,-0.07,"9,740.00","6,030.00","7,777.46","2,523",,Below 50 day moving avg.
+Chalet Hotels Ltd.,Consumer Services,Consumer Cyclical,CHALET,741.50,152.31B,180.98B,65.19,8.97,0.27,891.75,356.10,779.34,"1,725",,Below 50 day moving avg.
+Chambal Fertilizers & Chemicals Ltd.,Chemicals,Basic Materials,CHAMBLFERT,344.55,137.68B,115.32B,11.24,1.79,0.72,402.90,248.40,364.89,"1,050",,Below 50 day moving avg.
+Chemplast Sanmar Ltd.,Chemicals,Basic Materials,CHEMPLASTS,425.00,67.10B,69.54B,N/A,3.69,0.08,543.25,342.05,471.51,"1,219",,Below 50 day moving avg.
+Cholamandalam Financial Holdings Ltd.,Financial Services,Financial Services,CHOLAHLDNG,"1,030.05",193.78B,1.31T,11.61,2.28,0.67,"1,296.00",511.30,"1,076.53",2,,Below 50 day moving avg.
+Cholamandalam Investment and Finance Company Ltd.,Financial Services,Financial Services,CHOLAFIN,"1,049.20",887.27B,N/A,27.25,5.61,0.87,"1,310.00",709.90,"1,153.97","13,248",,Below 50 day moving avg.
+Cipla Ltd.,Healthcare,Healthcare,CIPLA,"1,459.25",1.20T,1.14T,32.43,4.84,0.37,"1,519.00",852.00,"1,416.31","32,323",Close to 52 week High,Above 50 day moving avg
+City Union Bank Ltd.,Financial Services,Financial Services,CUB,128.60,95.14B,N/A,9.78,1.21,0.66,167.80,119.50,138.53,"6,019",,Below 50 day moving avg.
+Clean Science and Technology Ltd.,Chemicals,Basic Materials,CLEAN,"1,294.55",136.76B,133.80B,53.81,12.55,-0.16,"1,622.00","1,227.10","1,423.20",502,,Below 50 day moving avg.
+Coal India Ltd.,Oil Gas & Consumable Fuels,Energy,COALINDIA,423.55,2.60T,2.20T,8.85,3.73,0.30,487.60,207.60,425.63,"239,210",,Below 50 day moving avg.
+Cochin Shipyard Ltd.,Capital Goods,Industrials,COCHINSHIP,894.70,230.20B,198.51B,40.84,4.90,0.53,945.00,205.20,848.48,"2,064",,Above 50 day moving avg
+Coforge Ltd.,Information Technology,Technology,COFORGE,"5,737.80",376.14B,384.55B,54.45,11.31,0.63,"6,847.45","3,564.75","6,402.02","23,224",,Below 50 day moving avg.
+Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods,Consumer Defensive,COLPAL,"2,689.90",743.49B,731.27B,59.01,42.17,0.29,"2,747.15","1,489.40","2,536.41","2,318",Close to 52 week High,Above 50 day moving avg
+Computer Age Management Services Ltd.,Financial Services,Technology,CAMS,"2,882.45",144.00B,138.67B,44.52,17.90,0.25,"3,242.00","2,010.00","2,895.62","5,174",,Below 50 day moving avg.
+Concord Biotech Ltd.,Healthcare,Healthcare,CONCORDBIO,"1,445.95",153.73B,151.45B,50.49,11.36,N/A,"1,607.00",900.05,"1,443.14",,,Above 50 day moving avg
+Container Corporation of India Ltd.,Services,Industrials,CONCOR,857.40,520.64B,491.96B,42.55,4.49,0.61,"1,027.65",555.00,920.30,"1,328",,Below 50 day moving avg.
+Coromandel International Ltd.,Chemicals,Basic Materials,COROMANDEL,"1,064.05",314.17B,282.75B,18.22,3.47,0.39,"1,271.55",841.50,"1,114.06","5,064",,Below 50 day moving avg.
+Craftsman Automation Ltd.,Automobile and Auto Components,Consumer Cyclical,CRAFTSMAN,"3,869.25",82.69B,97.23B,25.85,5.43,-0.04,"5,513.65","2,795.00","4,417.77","2,154",,Below 50 day moving avg.
+CreditAccess Grameen Ltd.,Financial Services,Financial Services,CREDITACC,"1,379.55",223.00B,385.60B,16.64,3.85,0.87,"1,796.00",888.05,"1,550.31","16,759",,Below 50 day moving avg.
+Crompton Greaves Consumer Electricals Ltd.,Consumer Durables,Consumer Cyclical,CROMPTON,269.80,174.76B,178.12B,40.14,6.40,0.42,327.95,251.00,296.74,"2,190",,Below 50 day moving avg.
+Cummins India Ltd.,Capital Goods,Industrials,CUMMINSIND,"2,697.25",752.06B,727.89B,49.13,12.37,0.85,"2,891.95","1,481.00","2,448.50","3,161",,Above 50 day moving avg
+Cyient Ltd.,Information Technology,Industrials,CYIENT,"1,972.90",219.29B,212.41B,33.59,5.43,1.17,"2,458.95",932.15,"2,090.78","12,042",,Below 50 day moving avg.
+DCM Shriram Ltd.,Diversified,Basic Materials,DCMSHRIRAM,890.00,137.76B,136.04B,27.05,2.22,0.45,"1,175.00",730.20,983.01,"5,803",,Below 50 day moving avg.
+DLF Ltd.,Realty,Real Estate,DLF,839.30,2.07T,2.06T,87.11,5.47,0.61,941.90,346.50,834.23,"2,417",,Above 50 day moving avg
+Dabur India Ltd.,Fast Moving Consumer Goods,Consumer Defensive,DABUR,519.65,938.47B,931.48B,52.44,9.89,0.24,597.10,503.65,538.74,"5,319",Close to 52 week low,Below 50 day moving avg.
+Dalmia Bharat Ltd.,Construction Materials,Basic Materials,DALBHARAT,"1,878.95",353.63B,354.68B,32.12,2.21,0.64,"2,430.70","1,795.05","2,121.01","5,642",Close to 52 week low,Below 50 day moving avg.
+Data Patterns (India) Ltd.,Capital Goods,Industrials,DATAPATTNS,"2,288.30",130.96B,124.76B,77.12,10.89,0.62,"3,080.00","1,294.35","2,135.52","1,130",,Above 50 day moving avg
+Deepak Fertilisers & Petrochemicals Corp. Ltd.,Chemicals,Basic Materials,DEEPAKFERT,487.75,59.56B,83.56B,12.39,1.15,0.28,714.70,450.00,556.19,941,,Below 50 day moving avg.
+Deepak Nitrite Ltd.,Chemicals,Basic Materials,DEEPAKNTR,"2,119.60",287.60B,282.65B,36.38,6.63,0.44,"2,521.15","1,762.00","2,267.36","1,694",,Below 50 day moving avg.
+Delhivery Ltd.,Services,Industrials,DELHIVERY,442.80,328.46B,291.29B,N/A,3.60,N/A,488.00,314.10,440.07,"20,398",,Above 50 day moving avg
+Delta Corp Ltd.,Consumer Services,Consumer Cyclical,DELTACORP,123.00,33.07B,25.99B,14.82,1.41,0.85,259.95,117.00,140.14,"3,286",,Below 50 day moving avg.
+Devyani International Ltd.,Consumer Services,Consumer Cyclical,DEVYANI,156.80,189.32B,205.18B,131.97,18.29,-0.23,227.50,133.95,165.66,"15,685",,Below 50 day moving avg.
+Divi's Laboratories Ltd.,Healthcare,Healthcare,DIVISLAB,"3,489.95",930.89B,894.78B,67.29,7.34,0.39,"4,074.40","2,762.00","3,654.93","8,433",,Below 50 day moving avg.
+Dixon Technologies (India) Ltd.,Consumer Durables,Technology,DIXON,"6,966.00",420.75B,423.14B,117.23,28.96,0.41,"7,236.00","2,754.05","6,494.54","2,844",Close to 52 week High,Above 50 day moving avg
+Dr. Lal Path Labs Ltd.,Healthcare,Healthcare,LALPATHLAB,"1,965.85",167.29B,160.99B,50.76,9.44,0.28,"2,767.10","1,773.10","2,373.88","4,048",,Below 50 day moving avg.
+Dr. Reddy's Laboratories Ltd.,Healthcare,Healthcare,DRREDDY,"6,248.65",1.06T,1.00T,20.24,3.94,0.35,"6,505.90","4,384.05","6,117.51","25,863",Close to 52 week High,Above 50 day moving avg
+E.I.D. Parry (India) Ltd.,Chemicals,Basic Materials,EIDPARRY,564.00,99.70B,71.17B,11.63,1.50,0.61,663.00,433.20,601.62,"2,230",,Below 50 day moving avg.
+EIH Ltd.,Consumer Services,Consumer Cyclical,EIHOTEL,403.85,253.65B,250.33B,50.63,7.23,0.36,485.75,150.35,363.99,"8,297",,Above 50 day moving avg
+EPL Ltd.,Capital Goods,Consumer Cyclical,EPL,189.40,59.14B,65.94B,21.56,2.96,0.75,236.15,151.95,193.26,"1,358",,Below 50 day moving avg.
+Easy Trip Planners Ltd.,Consumer Services,Consumer Cyclical,EASEMYTRIP,44.40,78.31B,76.40B,51.40,13.22,0.32,54.00,37.00,47.69,753,,Below 50 day moving avg.
+Eicher Motors Ltd.,Automobile and Auto Components,Consumer Cyclical,EICHERMOT,"3,692.00",1.01T,999.64B,26.44,6.36,0.58,"4,200.00","2,836.00","3,812.69","5,002",,Below 50 day moving avg.
+Elgi Equipments Ltd.,Capital Goods,Industrials,ELGIEQUIP,630.00,199.63B,199.34B,49.23,13.65,0.58,714.20,421.00,616.03,"1,258",,Above 50 day moving avg
+Emami Ltd.,Fast Moving Consumer Goods,Consumer Defensive,EMAMILTD,424.00,186.63B,182.75B,26.02,7.75,0.77,588.60,340.60,481.37,"3,235",,Below 50 day moving avg.
+Endurance Technologies Ltd.,Automobile and Auto Components,Consumer Cyclical,ENDURANCE,"1,803.00",253.12B,247.04B,41.71,5.51,0.94,"2,318.80","1,179.00","1,921.79","3,829",,Below 50 day moving avg.
+Engineers India Ltd.,Construction,Industrials,ENGINERSIN,185.25,110.16B,92.13B,21.17,5.09,0.79,273.90,70.35,220.92,"2,656",,Below 50 day moving avg.
+Epigral Ltd.,Chemicals,Basic Materials,EPIGRAL,"1,035.00",43.18B,52.53B,22.13,3.83,-0.36,"1,284.40",872.10,"1,067.75",936,,Below 50 day moving avg.
+Equitas Small Finance Bank Ltd.,Financial Services,Financial Services,EQUITASBNK,93.40,105.29B,N/A,13.61,1.92,-0.09,116.50,61.80,103.85,"20,563",,Below 50 day moving avg.
+Eris Lifesciences Ltd.,Healthcare,Healthcare,ERIS,847.55,114.97B,121.34B,29.83,4.77,0.42,971.90,555.00,891.45,"3,548",,Below 50 day moving avg.
+Escorts Kubota Ltd.,Capital Goods,Industrials,ESCORTS,"2,692.00",292.80B,265.61B,28.92,3.39,0.29,"3,440.15","1,807.70","2,883.00","3,920",,Below 50 day moving avg.
+Exide Industries Ltd.,Automobile and Auto Components,Consumer Cyclical,EXIDEIND,296.70,260.01B,252.66B,29.81,2.08,0.62,354.00,170.50,326.64,"5,208",,Below 50 day moving avg.
+FDC Ltd.,Healthcare,Healthcare,FDC,434.40,70.17B,66.57B,24.29,3.56,0.22,487.70,247.80,435.15,"6,372",,Below 50 day moving avg.
+FSN E-Commerce Ventures Ltd.,Consumer Services,Consumer Cyclical,NYKAA,153.15,432.97B,438.45B,1.51k,31.04,0.20,195.50,114.25,160.81,"1,625",,Below 50 day moving avg.
+Federal Bank Ltd.,Financial Services,Financial Services,FEDERALBNK,147.95,355.64B,N/A,8.55,1.33,0.85,166.35,121.00,150.13,"12,914",,Below 50 day moving avg.
+Fertilisers and Chemicals Travancore Ltd.,Chemicals,Basic Materials,FACT,648.55,415.26B,403.60B,111.34,29.40,0.38,908.00,192.00,775.91,"1,546",,Below 50 day moving avg.
+Fine Organic Industries Ltd.,Chemicals,Basic Materials,FINEORG,"4,122.25",125.53B,118.06B,28.09,7.33,0.02,"5,164.90","4,040.00","4,442.20",825,Close to 52 week low,Below 50 day moving avg.
+Finolex Cables Ltd.,Capital Goods,Industrials,FINCABLES,902.00,134.14B,108.59B,20.94,2.92,0.74,"1,219.00",762.00,"1,007.65","1,546",,Below 50 day moving avg.
+Finolex Industries Ltd.,Capital Goods,Industrials,FINPIPE,222.05,130.47B,118.12B,27.44,2.33,0.67,259.95,160.60,223.09,"1,473",,Below 50 day moving avg.
+Firstsource Solutions Ltd.,Services,Technology,FSL,187.00,130.80B,143.62B,25.56,3.56,0.95,221.50,103.55,199.78,"23,018",,Below 50 day moving avg.
+Five-Star Business Finance Ltd.,Financial Services,Financial Services,FIVESTAR,635.50,187.59B,224.28B,24.62,3.97,N/A,876.55,496.55,728.01,"7,302",,Below 50 day moving avg.
+Fortis Healthcare Ltd.,Healthcare,Healthcare,FORTIS,400.45,303.57B,310.04B,54.88,3.99,0.63,469.70,245.50,421.74,"13,010",,Below 50 day moving avg.
+G R Infraprojects Ltd.,Construction,Industrials,GRINFRA,"1,257.60",121.44B,166.13B,10.47,1.79,0.48,"1,381.00",930.00,"1,209.43","16,141",,Above 50 day moving avg
+GAIL (India) Ltd.,Oil Gas & Consumable Fuels,Utilities,GAIL,175.45,1.16T,1.29T,14.34,1.59,0.81,196.35,101.90,175.31,"4,823",,Above 50 day moving avg
+GMM Pfaudler Ltd.,Capital Goods,Industrials,GMMPFAUDLR,"1,225.00",55.34B,58.73B,28.19,5.94,0.13,"1,897.95","1,210.00","1,418.67",809,Close to 52 week low,Below 50 day moving avg.
+GMR Airports Infrastructure Ltd.,Services,Industrials,GMRINFRA,76.50,464.83B,720.13B,N/A,N/A,0.76,94.35,37.20,84.08,"6,809",,Below 50 day moving avg.
+Galaxy Surfactants Ltd.,Chemicals,Basic Materials,GALAXYSURF,"2,300.00",81.66B,80.94B,26.00,4.03,0.51,"2,978.95","2,221.60","2,610.73","1,668",Close to 52 week low,Below 50 day moving avg.
+General Insurance Corporation of India,Financial Services,Financial Services,GICRE,330.80,585.71B,348.79B,8.58,1.23,1.14,467.80,127.80,368.07,443,,Below 50 day moving avg.
+Gillette India Ltd.,Fast Moving Consumer Goods,Consumer Defensive,GILLETTE,"6,670.80",218.17B,214.01B,55.79,21.17,0.22,"7,335.65","4,222.55","6,600.80",571,,Above 50 day moving avg
+Gland Pharma Ltd.,Healthcare,Healthcare,GLAND,"1,781.20",294.24B,275.72B,44.67,3.54,0.36,"2,194.00",861.00,"1,903.21","4,585",,Below 50 day moving avg.
+Glaxosmithkline Pharmaceuticals Ltd.,Healthcare,Healthcare,GLAXO,"1,970.00",332.74B,315.74B,63.05,21.67,0.23,"2,524.00","1,227.00","2,197.80","3,680",,Below 50 day moving avg.
+Glenmark Life Sciences Ltd.,Healthcare,Healthcare,GLS,745.65,93.11B,88.15B,17.93,3.89,0.16,906.00,370.00,813.73,"1,824",,Below 50 day moving avg.
+Glenmark Pharmaceuticals Ltd.,Healthcare,Healthcare,GLENMARK,922.55,265.00B,303.32B,N/A,2.84,0.87,974.00,423.95,893.54,"15,556",,Above 50 day moving avg
+Global Health Ltd.,Healthcare,Healthcare,MEDANTA,"1,194.20",318.24B,316.07B,70.34,11.99,N/A,"1,513.90",464.30,"1,221.94","7,829",,Below 50 day moving avg.
+Go Fashion (India) Ltd.,Consumer Services,Consumer Cyclical,GOCOLORS,"1,037.85",55.30B,57.23B,65.53,9.78,-0.39,"1,404.70",928.00,"1,134.26","4,318",,Below 50 day moving avg.
+Godawari Power & Ispat Ltd.,Capital Goods,Basic Materials,GPIL,677.05,88.48B,82.31B,9.53,2.19,1.41,844.40,340.00,752.09,"2,995",,Below 50 day moving avg.
+Godfrey Phillips India Ltd.,Fast Moving Consumer Goods,Consumer Defensive,GODFRYPHLP,"3,131.05",163.22B,163.54B,19.94,4.31,0.20,"3,686.00","1,620.00","2,602.34","1,111",,Above 50 day moving avg
+Godrej Consumer Products Ltd.,Fast Moving Consumer Goods,Consumer Defensive,GODREJCP,"1,238.70",1.27T,1.28T,71.16,8.76,0.33,"1,314.30",897.00,"1,202.82","13,000",,Above 50 day moving avg
+Godrej Industries Ltd.,Diversified,Industrials,GODREJIND,742.55,249.50B,435.67B,37.21,3.04,0.47,911.95,395.00,824.93,"1,078",,Below 50 day moving avg.
+Godrej Properties Ltd.,Realty,Real Estate,GODREJPROP,"2,131.75",601.39B,649.21B,90.27,6.36,0.90,"2,541.30","1,005.00","2,331.29","2,391",,Below 50 day moving avg.
+Granules India Ltd.,Healthcare,Healthcare,GRANULES,415.25,101.70B,112.36B,25.74,3.43,0.31,480.45,267.75,432.98,"3,650",,Below 50 day moving avg.
+Graphite India Ltd.,Capital Goods,Industrials,GRAPHITE,603.65,119.00B,96.67B,14.48,2.14,1.39,652.35,251.70,575.21,"1,695",,Above 50 day moving avg
+Grasim Industries Ltd.,Construction Materials,Basic Materials,GRASIM,"2,173.80",1.49T,2.45T,25.82,1.80,0.55,"2,270.55","1,578.92","2,140.83","24,455",Close to 52 week High,Above 50 day moving avg
+Great Eastern Shipping Co. Ltd.,Services,Industrials,GESHIP,"1,015.90",144.83B,114.11B,5.97,1.30,0.79,"1,052.00",590.00,971.05,230,Close to 52 week High,Above 50 day moving avg
+Grindwell Norton Ltd.,Capital Goods,Industrials,GRINDWELL,"1,898.90",210.92B,205.17B,53.98,11.43,0.51,"2,495.00","1,732.00","2,190.24","2,322",,Below 50 day moving avg.
+Gujarat Alkalies & Chemicals Ltd.,Chemicals,Basic Materials,GUJALKALI,694.10,51.20B,52.37B,8.52,0.85,0.43,868.80,556.35,784.52,"1,339",,Below 50 day moving avg.
+Gujarat Ambuja Exports Ltd.,Fast Moving Consumer Goods,Consumer Defensive,GAEL,172.50,82.47B,79.33B,25.37,3.19,0.34,210.60,114.03,187.16,"2,228",,Below 50 day moving avg.
+Gujarat Fluorochemicals Ltd.,Chemicals,Basic Materials,FLUOROCHEM,"3,234.70",358.85B,369.55B,53.91,6.24,0.51,"3,920.00","2,537.00","3,532.66","3,312",,Below 50 day moving avg.
+Gujarat Gas Ltd.,Oil Gas & Consumable Fuels,Utilities,GUJGASLTD,535.00,373.04B,366.75B,33.86,5.27,0.32,620.00,397.05,561.57,"1,028",,Below 50 day moving avg.
+Gujarat Narmada Valley Fertilizers and Chemicals Ltd.,Chemicals,Basic Materials,GNFC,616.95,90.30B,56.49B,13.64,1.02,0.30,814.90,484.45,689.17,"2,273",,Below 50 day moving avg.
+Gujarat Pipavav Port Ltd.,Services,Industrials,GPPL,194.40,94.46B,85.36B,25.29,4.10,0.48,218.80,105.15,184.10,460,,Above 50 day moving avg
+Gujarat State Fertilizers & Chemicals Ltd.,Chemicals,Basic Materials,GSFC,201.50,81.03B,55.19B,10.60,0.66,0.63,322.25,116.00,253.19,"3,024",,Below 50 day moving avg.
+Gujarat State Petronet Ltd.,Oil Gas & Consumable Fuels,Utilities,GSPL,344.90,193.19B,179.85B,12.40,1.94,0.61,406.75,254.50,354.98,257,,Below 50 day moving avg.
+H.E.G. Ltd.,Capital Goods,Industrials,HEG,"1,840.55",71.94B,71.10B,19.02,1.66,1.37,"2,011.00",918.00,"1,757.73",903,,Above 50 day moving avg
+HCL Technologies Ltd.,Information Technology,Technology,HCLTECH,"1,621.55",4.45T,4.27T,28.39,6.78,0.63,"1,697.35","1,016.25","1,610.27",,Close to 52 week High,Above 50 day moving avg
+HDFC Asset Management Company Ltd.,Financial Services,Financial Services,HDFCAMC,"3,663.95",798.87B,786.49B,44.94,13.26,0.68,"4,066.50","1,633.50","3,642.16","1,281",,Above 50 day moving avg
+HDFC Bank Ltd.,Financial Services,Financial Services,HDFCBANK,"1,442.25",10.99T,N/A,16.31,3.77,0.77,"1,757.50","1,363.55","1,464.31","173,222",,Below 50 day moving avg.
+HDFC Life Insurance Company Ltd.,Financial Services,Financial Services,HDFCLIFE,626.75,1.36T,1.36T,89.56,9.62,0.75,710.60,466.50,599.22,"32,448",,Above 50 day moving avg
+HFCL Ltd.,Telecommunication,Technology,HFCL,91.00,129.46B,133.82B,43.11,3.64,0.92,117.80,55.75,99.61,"2,108",,Below 50 day moving avg.
+HLE Glascoat Ltd.,Capital Goods,Industrials,HLEGLAS,448.65,30.17B,33.21B,58.45,8.77,0.74,698.40,436.40,515.88,742,Close to 52 week low,Below 50 day moving avg.
+Happiest Minds Technologies Ltd.,Information Technology,Technology,HAPPSTMNDS,785.85,117.31B,109.86B,49.54,8.42,0.07,"1,023.00",763.25,853.48,"4,589",Close to 52 week low,Below 50 day moving avg.
+Havells India Ltd.,Consumer Durables,Industrials,HAVELLS,"1,464.60",941.03B,920.26B,79.58,13.64,0.62,"1,588.00","1,131.80","1,414.48","6,533",,Above 50 day moving avg
+Hero MotoCorp Ltd.,Automobile and Auto Components,Consumer Cyclical,HEROMOTOCO,"4,555.85",910.48B,872.97B,25.22,5.15,0.81,"4,949.05","2,246.00","4,553.78","9,215",,Above 50 day moving avg
+Hindalco Industries Ltd.,Metals & Mining,Basic Materials,HINDALCO,531.60,1.19T,1.58T,12.58,1.19,1.39,620.50,384.95,546.26,"22,666",,Below 50 day moving avg.
+Hindustan Aeronautics Ltd.,Capital Goods,Industrials,HAL,"3,105.80",2.09T,1.86T,33.99,8.30,0.82,"3,428.00","1,237.55","3,044.78","23,450",,Above 50 day moving avg
+Hindustan Copper Ltd.,Metals & Mining,Basic Materials,HINDCOPPER,268.15,258.82B,258.00B,85.75,11.90,1.73,306.85,94.15,269.16,"1,351",,Below 50 day moving avg.
+Hindustan Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,Energy,HINDPETRO,447.55,654.16B,1.15T,3.87,1.45,0.83,594.80,220.10,495.02,"8,504",,Below 50 day moving avg.
+Hindustan Unilever Ltd.,Fast Moving Consumer Goods,Consumer Defensive,HINDUNILVR,"2,276.60",5.49T,5.36T,53.17,10.89,0.08,"2,769.65","2,275.10","2,435.01","18,970",Close to 52 week low,Below 50 day moving avg.
+Hindustan Zinc Ltd.,Metals & Mining,Basic Materials,HINDZINC,291.95,1.25T,1.27T,15.03,9.14,0.74,344.00,284.60,311.63,"3,463",Close to 52 week low,Below 50 day moving avg.
+Hitachi Energy India Ltd.,Capital Goods,Technology,POWERINDIA,"6,500.05",275.88B,277.36B,273.02,22.51,0.15,"6,800.00","3,030.10","6,036.02","2,323",Close to 52 week High,Above 50 day moving avg
+Home First Finance Company India Ltd.,Financial Services,Financial Services,HOMEFIRST,848.70,74.80B,129.93B,26.75,3.84,0.30,"1,061.00",662.25,934.13,993,,Below 50 day moving avg.
+Honeywell Automation India Ltd.,Capital Goods,Industrials,HONAUT,"37,736.90",337.85B,307.49B,72.58,10.12,0.38,"44,150.00","34,649.15","37,896.83","2,956",,Below 50 day moving avg.
+Housing & Urban Development Corporation Ltd.,Financial Services,Financial Services,HUDCO,181.40,361.34B,N/A,17.58,2.30,1.35,226.45,40.40,178.66,673,,Above 50 day moving avg
+ICICI Bank Ltd.,Financial Services,Financial Services,ICICIBANK,"1,081.05",7.59T,N/A,18.18,3.11,0.82,"1,113.55",839.05,"1,035.37","157,799",Close to 52 week High,Above 50 day moving avg
+ICICI Lombard General Insurance Company Ltd.,Financial Services,Financial Services,ICICIGI,"1,660.70",815.77B,814.79B,44.48,6.98,0.53,"1,734.90","1,055.00","1,569.03","12,865",Close to 52 week High,Above 50 day moving avg
+ICICI Prudential Life Insurance Company Ltd.,Financial Services,Financial Services,ICICIPRULI,556.15,814.65B,824.01B,89.53,7.36,0.67,615.60,391.00,526.35,"18,622",,Above 50 day moving avg
+ICICI Securities Ltd.,Financial Services,Financial Services,ISEC,716.35,233.43B,265.69B,16.45,7.13,0.81,866.45,416.30,787.93,"4,494",,Below 50 day moving avg.
+IDBI Bank Ltd.,Financial Services,Financial Services,IDBI,82.10,856.32B,N/A,16.06,1.73,0.97,98.70,42.90,83.10,"16,254",,Below 50 day moving avg.
+IDFC First Bank Ltd.,Financial Services,Financial Services,IDFCFIRSTB,77.55,551.10B,N/A,17.40,1.98,0.91,100.70,52.10,82.28,"35,352",,Below 50 day moving avg.
+IDFC Ltd.,Financial Services,Financial Services,IDFC,109.15,175.04B,N/A,29.65,1.44,1.12,137.00,76.35,117.58,7,,Below 50 day moving avg.
+IIFL Finance Ltd.,Financial Services,Financial Services,IIFL,367.00,140.35B,N/A,7.82,1.42,0.92,703.40,360.00,568.79,"14,937",Close to 52 week low,Below 50 day moving avg.
+IRB Infrastructure Developers Ltd.,Construction,Industrials,IRB,54.70,332.63B,488.50B,61.22,2.45,0.76,72.00,22.50,59.12,"3,363",,Below 50 day moving avg.
+IRCON International Ltd.,Construction,Industrials,IRCON,215.00,196.10B,158.81B,20.87,3.54,0.69,280.85,52.00,221.25,968,,Below 50 day moving avg.
+ITC Ltd.,Fast Moving Consumer Goods,Consumer Defensive,ITC,416.05,5.21T,5.02T,25.41,7.54,0.27,499.70,374.05,430.31,"23,725",,Below 50 day moving avg.
+ITI Ltd.,Telecommunication,Technology,ITI,254.75,245.84B,238.30B,339.46,11.62,0.56,384.30,86.55,313.70,"1,330",,Below 50 day moving avg.
+India Cements Ltd.,Construction Materials,Basic Materials,INDIACEM,200.95,63.27B,89.76B,20.68,1.12,-0.11,277.00,167.20,238.74,"1,855",,Below 50 day moving avg.
+Indiabulls Housing Finance Ltd.,Financial Services,Financial Services,IBULHSGFIN,166.30,103.10B,N/A,7.48,0.67,1.37,876.68,81.83,184.81,"5,318",,Below 50 day moving avg.
+Indiamart Intermesh Ltd.,Consumer Services,Communication Services,INDIAMART,"2,605.00",156.11B,137.67B,54.88,10.14,0.59,"3,335.55","2,393.35","2,620.88","4,583",,Below 50 day moving avg.
+Indian Bank,Financial Services,Financial Services,INDIANB,491.90,669.78B,N/A,8.13,1.25,0.90,573.75,263.55,501.12,"41,699",,Below 50 day moving avg.
+Indian Energy Exchange Ltd.,Financial Services,Financial Services,IEX,135.85,121.29B,111.32B,35.44,13.91,0.59,173.35,116.00,145.90,171,,Below 50 day moving avg.
+Indian Hotels Co. Ltd.,Consumer Services,Consumer Cyclical,INDHOTEL,550.85,787.30B,799.55B,67.18,9.50,0.42,602.75,302.10,524.19,"16,387",,Above 50 day moving avg
+Indian Oil Corporation Ltd.,Oil Gas & Consumable Fuels,Energy,IOC,155.10,2.21T,3.19T,4.73,1.33,0.77,196.80,75.75,164.01,"31,095",,Below 50 day moving avg.
+Indian Overseas Bank,Financial Services,Financial Services,IOB,59.35,1.12T,N/A,43.22,4.17,0.89,83.75,20.85,58.45,"22,052",,Above 50 day moving avg
+Indian Railway Catering And Tourism Corporation Ltd.,Consumer Services,Industrials,IRCTC,907.35,734.92B,712.86B,66.49,25.83,0.43,"1,046.90",557.10,943.11,"1,400",,Below 50 day moving avg.
+Indian Railway Finance Corporation Ltd.,Financial Services,Financial Services,IRFC,135.30,1.76T,3.69T,29.21,3.66,0.56,192.80,25.40,148.73,41,,Below 50 day moving avg.
+Indigo Paints Ltd.,Consumer Durables,Basic Materials,INDIGOPNTS,"1,336.40",63.65B,62.17B,44.81,7.76,0.35,"1,679.95",981.95,"1,435.14",848,,Below 50 day moving avg.
+Indraprastha Gas Ltd.,Oil Gas & Consumable Fuels,Utilities,IGL,404.30,286.97B,257.58B,14.74,3.56,0.39,515.70,375.70,431.66,687,,Below 50 day moving avg.
+Indus Towers Ltd.,Telecommunication,Communication Services,INDUSTOWER,248.55,669.17B,831.49B,11.99,2.82,0.19,271.35,135.80,230.35,"3,500",,Above 50 day moving avg
+IndusInd Bank Ltd.,Financial Services,Financial Services,INDUSINDBK,"1,461.50",1.16T,N/A,13.24,1.97,1.26,"1,694.50",996.00,"1,529.89","38,179",,Below 50 day moving avg.
+Infibeam Avenues Ltd.,Financial Services,Technology,INFIBEAM,36.65,102.48B,95.86B,69.81,3.17,0.72,42.50,12.85,33.35,713,,Above 50 day moving avg
+Info Edge (India) Ltd.,Consumer Services,Communication Services,NAUKRI,"5,165.00",670.93B,633.10B,278.62,3.40,0.91,"5,545.00","3,401.25","5,195.25","5,268",,Below 50 day moving avg.
+Infosys Ltd.,Information Technology,Technology,INFY,"1,582.05",6.84T,6.70T,28.11,8.59,0.56,"1,733.00","1,185.30","1,648.56","322,663",,Below 50 day moving avg.
+Ingersoll Rand (India) Ltd.,Capital Goods,Industrials,INGERRAND,"3,560.15",113.64B,110.61B,50.42,18.39,0.06,"3,842.45","2,326.10","3,365.75",535,,Above 50 day moving avg
+Intellect Design Arena Ltd.,Information Technology,Technology,INTELLECT,"1,091.15",150.45B,140.81B,45.61,6.73,1.44,"1,199.00",392.95,964.57,"5,699",,Above 50 day moving avg
+InterGlobe Aviation Ltd.,Services,Industrials,INDIGO,"3,299.95",1.25T,1.43T,17.43,N/A,0.57,"3,340.50","1,810.65","3,080.13","32,407",Close to 52 week High,Above 50 day moving avg
+Ipca Laboratories Ltd.,Healthcare,Healthcare,IPCALAB,"1,143.50",295.73B,305.23B,52.36,4.81,0.23,"1,263.95",669.80,"1,160.85","16,167",,Below 50 day moving avg.
+J.B. Chemicals & Pharmaceuticals Ltd.,Healthcare,Healthcare,JBCHEPHARM,"1,587.00",249.78B,249.82B,49.42,9.20,-0.05,"1,940.00",875.00,"1,645.90","5,095",,Below 50 day moving avg.
+J.K. Cement Ltd.,Construction Materials,Basic Materials,JKCEMENT,"4,017.45",314.08B,350.63B,45.97,6.44,0.62,"4,555.00","2,764.35","4,222.41","3,767",,Below 50 day moving avg.
+JBM Auto Ltd.,Automobile and Auto Components,Consumer Cyclical,JBMA,"1,887.65",221.74B,241.25B,146.42,20.81,0.86,"2,428.35",606.75,"1,981.84","2,174",,Below 50 day moving avg.
+JK Lakshmi Cement Ltd.,Construction Materials,Basic Materials,JKLAKSHMI,811.10,96.94B,109.05B,22.82,3.33,0.55,999.90,607.20,902.35,"1,699",,Below 50 day moving avg.
+JK Paper Ltd.,Forest Materials,Basic Materials,JKPAPER,340.50,58.49B,66.89B,5.19,1.27,0.51,452.00,306.40,391.34,"2,788",,Below 50 day moving avg.
+JM Financial Ltd.,Financial Services,Financial Services,JMFINANCIL,75.45,73.49B,N/A,10.58,0.87,0.21,114.85,57.85,99.90,"3,260",,Below 50 day moving avg.
+JSW Energy Ltd.,Power,Utilities,JSWENERGY,488.95,813.04B,1.05T,49.54,4.09,0.03,537.95,221.00,493.16,"2,310",,Below 50 day moving avg.
+JSW Steel Ltd.,Metals & Mining,Basic Materials,JSWSTEEL,801.60,1.96T,2.65T,17.47,2.65,1.09,895.75,655.75,815.81,"12,856",,Below 50 day moving avg.
+Jamna Auto Industries Ltd.,Automobile and Auto Components,Consumer Cyclical,JAMNAAUTO,122.70,46.28B,46.23B,22.81,5.53,0.80,139.70,94.40,117.93,"1,032",,Above 50 day moving avg
+Jindal Saw Ltd.,Capital Goods,Basic Materials,JINDALSAW,414.00,132.76B,191.41B,8.70,1.47,0.68,558.45,135.40,493.91,"7,517",,Below 50 day moving avg.
+Jindal Stainless Ltd.,Metals & Mining,Basic Materials,JSL,655.75,553.06B,593.55B,18.57,4.18,1.04,707.95,255.00,617.36,"4,688",,Above 50 day moving avg
+Jindal Steel & Power Ltd.,Metals & Mining,Basic Materials,JINDALSTEL,797.80,796.99B,873.86B,14.36,1.92,1.36,851.00,503.00,764.52,"6,399",,Above 50 day moving avg
+Jubilant Foodworks Ltd.,Consumer Services,Consumer Cyclical,JUBLFOOD,438.05,290.14B,314.74B,131.93,13.90,0.29,586.95,420.30,489.37,"8,403",Close to 52 week low,Below 50 day moving avg.
+Jubilant Ingrevia Ltd.,Chemicals,Basic Materials,JUBLINGREA,441.60,69.47B,76.25B,33.87,2.57,0.33,524.70,350.45,466.31,"2,295",,Below 50 day moving avg.
+Jubilant Pharmova Ltd.,Healthcare,Healthcare,JUBLPHARMA,570.30,90.28B,115.99B,238.85,1.67,1.57,627.45,268.90,574.60,"5,778",,Below 50 day moving avg.
+Justdial Ltd.,Consumer Services,Communication Services,JUSTDIAL,782.35,66.56B,24.43B,20.13,1.74,0.56,961.00,572.00,858.86,"15,320",,Below 50 day moving avg.
+Jyothy Labs Ltd.,Fast Moving Consumer Goods,Consumer Defensive,JYOTHYLAB,413.75,152.59B,148.56B,43.54,9.32,0.59,554.00,180.45,478.17,"2,602",,Below 50 day moving avg.
+K.P.R. Mill Ltd.,Textiles,Consumer Cyclical,KPRMILL,776.95,270.03B,270.84B,33.70,6.68,0.73,928.15,535.85,766.99,"21,819",,Above 50 day moving avg
+KEI Industries Ltd.,Capital Goods,Industrials,KEI,"3,199.00",287.11B,284.22B,52.29,10.05,0.62,"3,475.00","1,591.25","3,208.08","1,705",,Below 50 day moving avg.
+KNR Constructions Ltd.,Construction,Industrials,KNRCON,241.00,67.10B,70.22B,11.73,2.19,0.71,305.50,226.30,267.48,"5,712",,Below 50 day moving avg.
+KPIT Technologies Ltd.,Information Technology,Technology,KPITTECH,"1,346.95",374.96B,372.49B,69.72,20.19,0.93,"1,764.00",741.00,"1,547.66","9,928",,Below 50 day moving avg.
+KRBL Ltd.,Fast Moving Consumer Goods,Consumer Defensive,KRBL,290.50,67.26B,54.90B,11.44,1.46,0.76,470.90,275.55,342.25,"2,514",,Below 50 day moving avg.
+KSB Ltd.,Capital Goods,Industrials,KSB,"3,706.50",120.95B,118.12B,58.05,9.31,0.41,"4,215.65","2,013.35","3,662.86",,,Above 50 day moving avg
+Kajaria Ceramics Ltd.,Consumer Durables,Industrials,KAJARIACER,"1,212.90",190.20B,186.68B,44.72,7.63,0.55,"1,523.80","1,006.50","1,302.09","4,379",,Below 50 day moving avg.
+Kalpataru Projects International Ltd.,Construction,Industrials,KPIL,"1,028.00",166.68B,196.01B,33.00,3.46,0.77,"1,163.00",485.80,882.87,"7,838",,Above 50 day moving avg
+Kalyan Jewellers India Ltd.,Consumer Durables,Consumer Cyclical,KALYANKJIL,369.60,384.36B,417.63B,72.59,9.97,0.02,419.00,100.95,373.22,"9,478",,Below 50 day moving avg.
+Kansai Nerolac Paints Ltd.,Consumer Durables,Basic Materials,KANSAINER,271.55,222.30B,214.58B,19.14,4.18,0.28,357.30,249.10,314.62,"3,379",,Below 50 day moving avg.
+Karur Vysya Bank Ltd.,Financial Services,Financial Services,KARURVYSYA,174.50,141.67B,N/A,9.54,1.55,0.87,204.90,92.70,180.43,"7,402",,Below 50 day moving avg.
+Kaynes Technology India Ltd.,Capital Goods,Industrials,KAYNES,"2,600.00",166.33B,164.45B,100.92,16.38,N/A,"3,248.85",932.35,"2,845.29","2,037",,Below 50 day moving avg.
+Kec International Ltd.,Capital Goods,Industrials,KEC,669.75,173.71B,218.54B,64.98,4.52,0.57,769.50,444.00,663.10,"7,779",,Above 50 day moving avg
+Kfin Technologies Ltd.,Financial Services,Technology,KFINTECH,590.35,101.39B,99.36B,44.61,10.27,N/A,731.65,272.40,607.98,"5,229",,Below 50 day moving avg.
+Kotak Mahindra Bank Ltd.,Financial Services,Financial Services,KOTAKBANK,"1,734.30",3.45T,N/A,19.85,2.86,0.47,"2,064.40","1,667.40","1,762.91","103,317",Close to 52 week low,Below 50 day moving avg.
+Krishna Institute of Medical Sciences Ltd.,Healthcare,Healthcare,KIMS,"1,985.00",157.86B,165.68B,46.70,8.70,-0.21,"2,356.40","1,282.00","2,115.16","4,588",,Below 50 day moving avg.
+L&T Finance Holdings Ltd.,Financial Services,Financial Services,L&TFH,147.90,368.36B,N/A,16.19,1.66,1.05,179.00,78.95,167.02,"27,506",,Below 50 day moving avg.
+L&T Technology Services Ltd.,Information Technology,Technology,LTTS,"5,214.95",569.70B,551.72B,45.29,11.90,0.49,"5,678.90","3,297.05","5,402.64","19,773",,Below 50 day moving avg.
+LIC Housing Finance Ltd.,Financial Services,Financial Services,LICHSGFIN,568.60,316.34B,N/A,6.50,1.08,0.69,671.95,315.10,616.81,"2,353",,Below 50 day moving avg.
+LTIMindtree Ltd.,Information Technology,Technology,LTIM,"5,081.15",1.53T,1.45T,33.34,8.17,0.68,"6,356.00","4,132.20","5,504.84","82,471",,Below 50 day moving avg.
+Lakshmi Machine Works Ltd.,Capital Goods,Industrials,LAXMIMACH,"13,846.25",148.94B,137.56B,36.98,5.86,0.38,"15,499.90","9,806.50","14,010.73","3,418",,Below 50 day moving avg.
+Larsen & Toubro Ltd.,Construction,Industrials,LT,"3,503.40",4.90T,5.60T,39.10,6.24,0.66,"3,737.90","2,121.00","3,503.47","49,039",,Below 50 day moving avg.
+Latent View Analytics Ltd.,Information Technology,Industrials,LATENTVIEW,436.65,90.52B,81.61B,61.08,7.08,0.31,544.80,310.45,487.76,"1,116",,Below 50 day moving avg.
+Laurus Labs Ltd.,Healthcare,Healthcare,LAURUSLABS,393.90,214.10B,234.63B,114.55,5.32,1.14,444.70,278.85,402.17,"5,753",,Below 50 day moving avg.
+Laxmi Organic Industries Ltd.,Chemicals,Basic Materials,LXCHEM,230.10,63.18B,63.28B,61.46,4.33,0.13,320.95,220.50,262.30,874,Close to 52 week low,Below 50 day moving avg.
+Lemon Tree Hotels Ltd.,Consumer Services,Consumer Cyclical,LEMONTREE,130.40,102.80B,126.08B,81.60,11.88,0.68,147.25,72.80,136.79,"3,225",,Below 50 day moving avg.
+Life Insurance Corporation of India,Financial Services,Financial Services,LICI,904.50,5.72T,5.39T,14.19,9.22,N/A,"1,175.00",530.05,972.00,"98,463",,Below 50 day moving avg.
+Linde India Ltd.,Chemicals,Basic Materials,LINDEINDIA,"6,840.00",577.53B,567.67B,131.74,17.81,0.17,"6,949.00","3,751.10","5,679.99",246,Close to 52 week High,Above 50 day moving avg
+Lupin Ltd.,Healthcare,Healthcare,LUPIN,"1,594.00",735.09B,750.32B,41.20,5.56,0.67,"1,704.25",628.00,"1,547.43","20,933",,Above 50 day moving avg
+Lux Industries Ltd.,Textiles,Consumer Cyclical,LUXIND,"1,130.55",33.97B,34.82B,32.29,2.28,0.60,"1,719.55","1,110.05","1,222.28","3,055",Close to 52 week low,Below 50 day moving avg.
+MMTC Ltd.,Services,Industrials,MMTC,64.20,99.12B,85.71B,74.27,6.85,1.08,101.90,26.30,76.80,545,,Below 50 day moving avg.
+MRF Ltd.,Automobile and Auto Components,Consumer Cyclical,MRF,"133,890.00",580.81B,587.16B,28.68,3.67,0.34,"151,445.00","81,786.50","142,219.92","19,050",,Below 50 day moving avg.
+MTAR Technologies Ltd.,Capital Goods,Industrials,MTARTECH,"1,700.95",53.15B,55.04B,64.57,8.04,-0.24,"2,920.35","1,473.00","1,989.34","1,070",,Below 50 day moving avg.
+Macrotech Developers Ltd.,Realty,Real Estate,LODHA,"1,091.00",1.09T,1.14T,64.12,8.28,0.40,"1,277.90",388.50,"1,113.55","4,564",,Below 50 day moving avg.
+Mahanagar Gas Ltd.,Oil Gas & Consumable Fuels,Utilities,MGL,"1,254.65",125.34B,104.16B,9.70,2.68,0.63,"1,580.00",909.00,"1,397.39",509,,Below 50 day moving avg.
+Mahindra & Mahindra Financial Services Ltd.,Financial Services,Financial Services,M&MFIN,258.45,321.84B,N/A,16.57,1.73,0.72,346.55,215.65,282.38,"26,329",,Below 50 day moving avg.
+Mahindra & Mahindra Ltd.,Automobile and Auto Components,Consumer Cyclical,M&M,"1,841.15",2.31T,3.06T,18.62,3.82,1.01,"1,982.30","1,123.40","1,759.40","260,000",,Above 50 day moving avg
+Mahindra Holidays & Resorts India Ltd.,Consumer Services,Consumer Cyclical,MHRIL,378.50,76.24B,93.52B,84.84,18.14,0.20,470.00,256.30,405.08,"5,206",,Below 50 day moving avg.
+Mahindra Lifespace Developers Ltd.,Realty,Real Estate,MAHLIFE,542.25,84.25B,84.45B,309.15,4.82,0.50,632.80,316.00,575.59,580,,Below 50 day moving avg.
+Manappuram Finance Ltd.,Financial Services,Financial Services,MANAPPURAM,164.90,141.74B,N/A,6.93,1.34,1.14,199.00,102.00,177.43,"48,369",,Below 50 day moving avg.
+Mangalore Refinery & Petrochemicals Ltd.,Oil Gas & Consumable Fuels,Energy,MRPL,209.85,371.81B,513.46B,8.49,3.11,1.06,289.25,49.75,203.46,"2,550",,Above 50 day moving avg
+Mankind Pharma Ltd.,Healthcare,Healthcare,MANKIND,"2,136.60",859.40B,837.68B,72.38,10.19,N/A,"2,297.40","1,242.00","2,140.94","18,468",,Below 50 day moving avg.
+Marico Ltd.,Fast Moving Consumer Goods,Consumer Defensive,MARICO,489.15,655.18B,642.03B,44.63,15.52,0.16,595.00,462.70,522.96,"1,806",,Below 50 day moving avg.
+Maruti Suzuki India Ltd.,Automobile and Auto Components,Consumer Cyclical,MARUTI,"11,495.30",3.66T,3.63T,29.25,5.56,0.55,"11,730.00","8,140.00","10,826.79","16,875",Close to 52 week High,Above 50 day moving avg
+Mastek Ltd.,Information Technology,Technology,MASTEK,"2,614.85",81.09B,82.51B,28.96,4.53,1.37,"3,145.00","1,475.10","2,861.07","5,622",,Below 50 day moving avg.
+Max Financial Services Ltd.,Financial Services,Financial Services,MFSL,951.85,329.83B,329.77B,76.67,8.79,0.77,"1,067.50",599.10,939.73,11,,Above 50 day moving avg
+Max Healthcare Institute Ltd.,Healthcare,Healthcare,MAXHEALTH,724.00,710.18B,698.52B,67.32,9.05,0.19,910.00,411.90,783.06,"15,000",,Below 50 day moving avg.
+Mazagoan Dock Shipbuilders Ltd.,Capital Goods,Industrials,MAZDOCK,"1,830.20",372.90B,230.65B,23.30,6.89,0.81,"2,492.00",612.00,"2,163.44","2,988",,Below 50 day moving avg.
+Medplus Health Services Ltd.,Consumer Services,Healthcare,MEDPLUS,667.00,80.49B,87.79B,144.20,5.28,0.87,978.00,598.60,696.20,"19,626",,Below 50 day moving avg.
+Metro Brands Ltd.,Consumer Durables,Consumer Cyclical,METROBRAND,"1,037.70",284.25B,287.61B,87.46,16.98,-0.29,"1,441.20",765.00,"1,135.17","3,414",,Below 50 day moving avg.
+Metropolis Healthcare Ltd.,Healthcare,Healthcare,METROPOLIS,"1,579.10",81.38B,82.54B,65.40,7.77,0.29,"1,830.90","1,171.35","1,645.68","4,300",,Below 50 day moving avg.
+Minda Corporation Ltd.,Automobile and Auto Components,Consumer Cyclical,MINDACORP,383.65,89.47B,95.02B,32.65,4.77,0.84,449.95,185.00,407.48,"2,943",,Below 50 day moving avg.
+Motherson Sumi Wiring India Ltd.,Automobile and Auto Components,Consumer Cyclical,MSUMI,62.45,275.35B,277.93B,47.16,20.90,N/A,74.80,45.85,66.87,"4,596",,Below 50 day moving avg.
+Motilal Oswal Financial Services Ltd.,Financial Services,Financial Services,MOTILALOFS,"1,485.05",217.23B,227.94B,11.51,2.91,0.30,"1,938.25",551.25,"1,654.13","10,750",,Below 50 day moving avg.
+MphasiS Ltd.,Information Technology,Technology,MPHASIS,"2,433.05",468.34B,456.73B,30.08,5.93,0.71,"2,837.60","1,660.05","2,588.32","26,977",,Below 50 day moving avg.
+Multi Commodity Exchange of India Ltd.,Financial Services,Financial Services,MCX,"3,193.70",162.64B,134.46B,41.22,12.22,0.37,"3,990.00","1,285.05","3,455.17",335,,Below 50 day moving avg.
+Muthoot Finance Ltd.,Financial Services,Financial Services,MUTHOOTFIN,"1,335.55",538.06B,N/A,12.93,2.24,0.90,"1,537.35",939.00,"1,377.35",,,Below 50 day moving avg.
+NATCO Pharma Ltd.,Healthcare,Healthcare,NATCOPHARM,959.30,169.98B,160.30B,13.39,3.21,0.50,"1,108.35",530.55,918.65,"3,946",,Above 50 day moving avg
+NBCC (India) Ltd.,Construction,Industrials,NBCC,109.60,200.61B,143.12B,53.86,10.05,1.12,176.85,30.95,124.18,"1,362",,Below 50 day moving avg.
+NCC Ltd.,Construction,Industrials,NCC,218.20,140.26B,143.05B,21.18,2.23,1.49,267.40,98.20,222.21,"5,515",,Below 50 day moving avg.
+NHPC Ltd.,Power,Utilities,NHPC,81.75,829.12B,1.08T,25.03,2.12,0.23,115.85,38.70,86.35,"4,380",,Below 50 day moving avg.
+NLC India Ltd.,Power,Utilities,NLCINDIA,208.50,293.69B,490.69B,11.48,1.78,0.64,293.75,69.70,237.04,"10,781",,Below 50 day moving avg.
+NMDC Ltd.,Metals & Mining,Basic Materials,NMDC,203.20,593.74B,473.14B,9.23,2.43,1.04,252.40,103.75,225.41,"5,713",,Below 50 day moving avg.
+NMDC Steel Ltd.,Metals & Mining,Basic Materials,NSLNISP,54.35,159.37B,200.05B,N/A,0.94,N/A,73.70,29.75,59.38,,,Below 50 day moving avg.
+NTPC Ltd.,Power,Utilities,NTPC,312.25,3.08T,5.13T,17.09,2.00,0.46,359.95,166.80,327.77,"15,159",,Below 50 day moving avg.
+Narayana Hrudayalaya Ltd.,Healthcare,Healthcare,NH,"1,248.50",257.63B,258.80B,33.18,10.30,0.39,"1,444.90",723.10,"1,300.26","11,923",,Below 50 day moving avg.
+National Aluminium Co. Ltd.,Metals & Mining,Basic Materials,NATIONALUM,138.75,259.98B,237.06B,17.48,1.93,0.98,170.45,75.70,148.73,"5,190",,Below 50 day moving avg.
+Navin Fluorine International Ltd.,Chemicals,Basic Materials,NAVINFLUOR,"2,987.55",149.26B,157.03B,44.55,6.59,0.31,"4,950.00","2,899.25","3,225.10","1,413",Close to 52 week low,Below 50 day moving avg.
+Nazara Technologies Ltd.,Media Entertainment & Publication,Communication Services,NAZARA,673.75,51.99B,44.00B,68.38,4.42,-0.35,979.55,486.00,826.81,74,,Below 50 day moving avg.
+Nestle India Ltd.,Fast Moving Consumer Goods,Consumer Defensive,NESTLEIND,"2,508.75",2.49T,2.48T,83.73,87.09,0.04,"2,769.30","1,869.87","2,530.35",,,Below 50 day moving avg.
+Network18 Media & Investments Ltd.,Media Entertainment & Publication,Communication Services,NETWORK18,89.65,87.47B,35.37B,455.00,0.69,0.68,135.70,50.50,110.84,896,,Below 50 day moving avg.
+Nippon Life India Asset Management Ltd.,Financial Services,Financial Services,NAM-INDIA,437.05,280.98B,278.72B,29.14,7.87,0.50,542.85,196.90,499.51,"1,007",,Below 50 day moving avg.
+Nuvoco Vistas Corporation Ltd.,Construction Materials,Basic Materials,NUVOCO,297.90,106.83B,152.24B,43.03,1.21,0.02,398.00,291.30,338.38,"2,949",Close to 52 week low,Below 50 day moving avg.
+Oberoi Realty Ltd.,Realty,Real Estate,OBEROIRLTY,"1,344.40",489.72B,513.83B,30.26,3.81,0.60,"1,585.55",814.30,"1,377.07",934,,Below 50 day moving avg.
+Oil & Natural Gas Corporation Ltd.,Oil Gas & Consumable Fuels,Energy,ONGC,258.90,3.29T,4.10T,7.85,1.06,0.71,284.95,146.50,257.07,"25,993",,Above 50 day moving avg
+Oil India Ltd.,Oil Gas & Consumable Fuels,Energy,OIL,545.20,591.06B,752.12B,9.96,1.47,0.74,647.00,240.80,502.22,"6,759",,Above 50 day moving avg
+Olectra Greentech Ltd.,Automobile and Auto Components,Industrials,OLECTRA,"1,689.75",140.80B,139.86B,156.14,16.13,1.13,"2,221.95",613.00,"1,835.49",380,,Below 50 day moving avg.
+One 97 Communications Ltd.,Financial Services,Technology,PAYTM,406.70,247.43B,145.27B,N/A,1.89,-0.97,998.30,318.05,518.97,"32,798",,Below 50 day moving avg.
+Oracle Financial Services Software Ltd.,Information Technology,Technology,OFSS,"8,514.10",746.14B,699.45B,35.03,11.49,0.36,"8,698.00","3,176.25","7,079.57","8,593",Close to 52 week High,Above 50 day moving avg
+Orient Electric Ltd.,Consumer Durables,Consumer Cyclical,ORIENTELEC,194.00,41.50B,42.26B,47.62,6.74,0.16,274.95,189.00,212.12,"1,001",Close to 52 week low,Below 50 day moving avg.
+PB Fintech Ltd.,Financial Services,Financial Services,POLICYBZR,"1,100.00",459.21B,470.60B,N/A,9.00,0.66,"1,180.00",566.30,982.32,"14,318",,Above 50 day moving avg
+PCBL Ltd.,Chemicals,Basic Materials,PCBL,247.40,93.99B,104.07B,19.41,3.00,0.80,343.50,108.70,294.36,"1,178",,Below 50 day moving avg.
+PI Industries Ltd.,Chemicals,Basic Materials,PIIND,"3,726.50",565.86B,538.08B,35.54,7.09,0.63,"4,011.15","2,868.90","3,505.13","3,384",,Above 50 day moving avg
+PNB Housing Finance Ltd.,Financial Services,Financial Services,PNBHOUSING,623.75,162.23B,N/A,11.64,1.14,0.50,913.70,383.06,761.05,"1,690",,Below 50 day moving avg.
+PNC Infratech Ltd.,Construction,Industrials,PNCINFRA,408.00,105.45B,167.02B,15.62,2.29,0.78,474.95,261.00,418.99,"8,320",,Below 50 day moving avg.
+PVR INOX Ltd.,Media Entertainment & Publication,Communication Services,PVRINOX,"1,294.95",128.93B,204.59B,261.07,1.73,0.60,"1,875.45","1,284.10","1,426.06","4,689",Close to 52 week low,Below 50 day moving avg.
+Page Industries Ltd.,Textiles,Consumer Cyclical,PAGEIND,"34,245.95",388.16B,388.81B,72.01,25.38,0.49,"43,570.00","33,609.90","36,335.01","23,853",Close to 52 week low,Below 50 day moving avg.
+Patanjali Foods Ltd.,Fast Moving Consumer Goods,Consumer Defensive,PATANJALI,"1,383.15",512.69B,502.62B,62.26,5.02,-1.20,"1,713.80",864.00,"1,572.21","5,293",,Below 50 day moving avg.
+Persistent Systems Ltd.,Information Technology,Technology,PERSISTENT,"7,978.45",621.61B,610.08B,61.00,14.07,0.72,"8,900.00","3,962.05","8,313.32",,,Below 50 day moving avg.
+Petronet LNG Ltd.,Oil Gas & Consumable Fuels,Energy,PETRONET,261.85,396.53B,346.59B,11.32,2.41,0.48,296.45,191.70,266.48,523,,Below 50 day moving avg.
+Pfizer Ltd.,Healthcare,Healthcare,PFIZER,"4,338.55",198.48B,180.55B,39.53,6.06,0.32,"4,839.80","3,408.00","4,433.32","1,702",,Below 50 day moving avg.
+Phoenix Mills Ltd.,Realty,Real Estate,PHOENIXLTD,"2,550.30",470.60B,494.48B,29.72,5.33,0.55,"2,971.60","1,261.85","2,626.43",103,,Below 50 day moving avg.
+Pidilite Industries Ltd.,Chemicals,Basic Materials,PIDILITIND,"2,885.45",1.49T,1.48T,86.93,19.76,0.23,"2,962.70","2,292.55","2,702.72","7,310",Close to 52 week High,Above 50 day moving avg
+Piramal Enterprises Ltd.,Financial Services,Financial Services,PEL,818.00,183.88B,642.71B,1.79,0.64,0.77,"1,139.95",630.45,895.54,"12,220",,Below 50 day moving avg.
+Piramal Pharma Ltd.,Healthcare,Healthcare,PPLPHARMA,120.40,154.00B,192.69B,N/A,1.99,N/A,149.00,61.62,135.66,"6,295",,Below 50 day moving avg.
+Poly Medicure Ltd.,Healthcare,Healthcare,POLYMED,"1,488.05",143.83B,142.23B,57.75,10.73,0.33,"1,729.00",921.10,"1,513.24","2,339",,Below 50 day moving avg.
+Polycab India Ltd.,Capital Goods,Industrials,POLYCAB,"4,748.40",720.22B,704.99B,43.40,10.01,0.73,"5,733.00","2,753.90","4,558.09","4,485",,Above 50 day moving avg
+Polyplex Corporation Ltd.,Capital Goods,Basic Materials,POLYPLEX,822.45,24.51B,19.26B,66.54,0.71,0.76,"1,644.30",760.85,958.53,"2,700",,Below 50 day moving avg.
+Poonawalla Fincorp Ltd.,Financial Services,Financial Services,POONAWALLA,478.00,363.77B,475.12B,24.41,4.66,1.36,519.70,274.95,474.23,"2,452",,Above 50 day moving avg
+Power Finance Corporation Ltd.,Financial Services,Financial Services,PFC,368.25,1.24T,N/A,6.57,1.28,0.84,477.80,116.32,419.34,519,,Below 50 day moving avg.
+Power Grid Corporation of India Ltd.,Power,Utilities,POWERGRID,263.55,2.46T,3.57T,15.26,2.84,0.37,298.90,164.02,267.14,"8,342",,Below 50 day moving avg.
+Praj Industries Ltd.,Capital Goods,Industrials,PRAJIND,475.20,86.97B,81.27B,31.18,7.83,0.65,650.50,298.65,503.86,"1,192",,Below 50 day moving avg.
+Prestige Estates Projects Ltd.,Realty,Real Estate,PRESTIGE,984.60,402.53B,479.49B,23.67,3.65,0.55,"1,440.00",395.10,"1,209.05","8,393",,Below 50 day moving avg.
+Prince Pipes and Fittings Ltd.,Capital Goods,Industrials,PRINCEPIPE,535.00,58.03B,56.28B,26.14,4.00,0.94,776.00,521.35,633.10,"1,756",Close to 52 week low,Below 50 day moving avg.
+Prism Johnson Ltd.,Construction Materials,Basic Materials,PRSMJOHNSN,172.25,85.82B,95.54B,42.00,6.09,0.91,199.00,102.60,173.90,"5,174",,Below 50 day moving avg.
+Procter & Gamble Health Ltd.,Healthcare,Healthcare,PGHL,"4,878.45",81.16B,76.93B,35.90,10.10,0.46,"5,642.85","4,492.80","5,161.42","1,407",,Below 50 day moving avg.
+Procter & Gamble Hygiene & Health Care Ltd.,Fast Moving Consumer Goods,Consumer Defensive,PGHH,"16,323.25",533.01B,525.73B,70.52,50.64,0.17,"19,250.00","13,140.10","16,646.36",432,,Below 50 day moving avg.
+Punjab National Bank,Financial Services,Financial Services,PNB,118.50,1.32T,N/A,17.32,1.22,0.90,132.95,44.40,116.77,"104,120",,Above 50 day moving avg
+Quess Corp Ltd.,Services,Industrials,QUESS,499.00,74.10B,77.42B,35.32,2.75,0.71,582.00,337.55,504.45,"493,451",,Below 50 day moving avg.
+RBL Bank Ltd.,Financial Services,Financial Services,RBLBANK,222.00,135.81B,N/A,11.42,0.96,1.18,300.70,133.50,261.20,"18,988",,Below 50 day moving avg.
+REC Ltd.,Financial Services,Financial Services,RECLTD,425.80,1.15T,N/A,8.77,1.76,0.82,524.00,113.20,463.46,417,,Below 50 day moving avg.
+RHI MAGNESITA INDIA LTD.,Capital Goods,Industrials,RHIM,534.40,110.26B,114.09B,N/A,2.71,0.86,824.00,504.25,660.90,"1,595",,Below 50 day moving avg.
+RITES Ltd.,Construction,Industrials,RITES,620.50,151.79B,115.69B,32.92,5.88,0.12,825.95,337.00,685.33,"1,710",,Below 50 day moving avg.
+Radico Khaitan Ltd,Fast Moving Consumer Goods,Consumer Defensive,RADICO,"1,600.00",210.57B,218.40B,83.89,9.13,0.62,"1,885.10","1,068.55","1,643.51","1,329",,Below 50 day moving avg.
+Rail Vikas Nigam Ltd.,Construction,Industrials,RVNL,242.00,509.37B,507.28B,35.01,6.44,1.32,345.50,63.50,257.05,185,,Below 50 day moving avg.
+Rain Industries Ltd,Chemicals,Basic Materials,RAIN,158.80,53.28B,117.60B,N/A,0.73,1.07,219.60,140.25,174.86,,,Below 50 day moving avg.
+Rainbow Childrens Medicare Ltd.,Healthcare,Healthcare,RAINBOW,"1,163.80",114.25B,115.91B,52.02,10.04,N/A,"1,487.65",697.00,"1,238.26","3,581",,Below 50 day moving avg.
+Rajesh Exports Ltd.,Consumer Durables,Consumer Cyclical,RAJESHEXPO,289.75,86.53B,72.86B,11.80,0.57,0.29,669.30,280.00,337.63,141,Close to 52 week low,Below 50 day moving avg.
+Rallis India Ltd.,Chemicals,Basic Materials,RALLIS,252.20,49.91B,49.86B,49.91,2.73,0.49,294.40,186.55,255.54,"1,716",,Below 50 day moving avg.
+Rashtriya Chemicals & Fertilizers Ltd.,Chemicals,Basic Materials,RCF,126.60,69.57B,88.22B,23.95,1.48,0.82,188.00,89.50,156.82,"3,978",,Below 50 day moving avg.
+Ratnamani Metals & Tubes Ltd.,Capital Goods,Basic Materials,RATNAMANI,"2,659.35",190.74B,189.21B,30.50,6.73,0.58,"3,938.80","1,916.05","3,148.72","2,637",,Below 50 day moving avg.
+RattanIndia Enterprises Ltd.,Services,Consumer Cyclical,RTNINDIA,68.35,96.25B,106.96B,25.94,13.16,1.05,94.85,32.15,81.99,12,,Below 50 day moving avg.
+Raymond Ltd.,Textiles,Consumer Cyclical,RAYMOND,"1,714.50",113.25B,131.53B,7.06,2.70,0.65,"2,240.00","1,101.00","1,765.21","6,682",,Below 50 day moving avg.
+Redington Ltd.,Services,Technology,REDINGTON,203.10,162.02B,178.47B,13.52,2.36,1.01,221.80,136.20,193.65,"4,651",,Above 50 day moving avg
+Relaxo Footwears Ltd.,Consumer Durables,Consumer Cyclical,RELAXO,841.85,212.76B,211.63B,105.14,11.47,0.33,974.00,786.15,852.10,"6,736",,Below 50 day moving avg.
+Reliance Industries Ltd.,Oil Gas & Consumable Fuels,Energy,RELIANCE,"2,845.00",19.48T,20.63T,27.71,2.59,0.60,"3,024.90","2,028.75","2,863.03","389,414",,Below 50 day moving avg.
+Restaurant Brands Asia Ltd.,Consumer Services,Consumer Cyclical,RBA,105.15,51.82B,62.00B,N/A,7.03,-0.10,137.70,84.50,112.80,"8,712",,Below 50 day moving avg.
+Rossari Biotech Ltd.,Chemicals,Basic Materials,ROSSARI,700.25,39.18B,39.67B,31.26,4.01,0.17,903.85,558.70,762.55,500,,Below 50 day moving avg.
+Route Mobile Ltd.,Telecommunication,Communication Services,ROUTE,"1,577.20",99.27B,94.08B,25.87,4.96,0.25,"1,759.90","1,209.00","1,599.83",704,,Below 50 day moving avg.
+SBI Cards and Payment Services Ltd.,Financial Services,Financial Services,SBICARD,699.45,666.87B,N/A,28.41,6.03,0.32,933.00,678.90,727.54,"3,907",Close to 52 week low,Below 50 day moving avg.
+SBI Life Insurance Company Ltd.,Financial Services,Financial Services,SBILIFE,"1,474.65",1.49T,1.44T,80.22,10.34,0.61,"1,569.35","1,075.05","1,465.77","20,787",,Above 50 day moving avg
+SJVN Ltd.,Power,Utilities,SJVN,119.20,485.92B,610.00B,55.57,3.39,0.42,170.50,30.40,118.76,"1,572",,Above 50 day moving avg
+SKF India Ltd.,Capital Goods,Industrials,SKFINDIA,"4,240.65",209.60B,200.34B,41.89,8.78,0.49,"5,534.95","3,960.10","4,518.90","1,662",,Below 50 day moving avg.
+SRF Ltd.,Chemicals,Basic Materials,SRF,"2,449.95",732.17B,770.65B,49.60,6.75,0.54,"2,636.00","2,040.00","2,347.43","7,171",,Above 50 day moving avg
+Safari Industries (India) Ltd.,Consumer Durables,Consumer Cyclical,SAFARI,"1,663.10",82.22B,82.49B,47.14,16.02,0.21,"2,315.00",947.67,"1,958.62",963,,Below 50 day moving avg.
+Samvardhana Motherson International Ltd.,Automobile and Auto Components,Consumer Cyclical,MOTHERSON,111.85,764.72B,877.80B,38.25,3.39,1.58,126.50,61.80,114.36,"67,419",,Below 50 day moving avg.
+Sanofi India Ltd.,Healthcare,Healthcare,SANOFI,"7,694.15",179.90B,175.94B,29.84,17.72,0.34,"9,380.00","5,400.00","8,617.61",,,Below 50 day moving avg.
+Sapphire Foods India Ltd.,Consumer Services,Consumer Cyclical,SAPPHIRE,"1,491.05",93.28B,100.86B,50.64,7.11,-0.17,"1,567.85","1,137.60","1,429.69","10,604",Close to 52 week High,Above 50 day moving avg
+Saregama India Ltd,Media Entertainment & Publication,Communication Services,SAREGAMA,356.90,68.79B,60.69B,36.53,4.79,1.55,475.75,294.76,370.69,325,,Below 50 day moving avg.
+Schaeffler India Ltd.,Automobile and Auto Components,Consumer Cyclical,SCHAEFFLER,"2,912.05",452.14B,436.38B,50.31,9.41,0.11,"3,726.05","2,612.20","3,042.15",,,Below 50 day moving avg.
+Sharda Cropchem Ltd.,Chemicals,Basic Materials,SHARDACROP,329.50,30.19B,27.56B,34.72,1.45,1.12,580.00,324.50,383.51,500,Close to 52 week low,Below 50 day moving avg.
+Sheela Foam Ltd.,Consumer Durables,Consumer Cyclical,SFL,954.20,104.88B,94.84B,59.18,3.67,0.37,"1,369.95",906.60,"1,101.19","1,914",,Below 50 day moving avg.
+Shoppers Stop Ltd.,Consumer Services,Consumer Cyclical,SHOPERSTOP,771.65,84.50B,108.86B,124.11,35.51,0.19,888.50,573.80,729.66,"6,319",,Above 50 day moving avg
+Shree Cement Ltd.,Construction Materials,Basic Materials,SHREECEM,"24,969.05",914.37B,878.55B,40.70,4.69,0.36,"30,737.75","22,605.60","26,651.20","6,451",,Below 50 day moving avg.
+Shree Renuka Sugars Ltd.,Fast Moving Consumer Goods,Consumer Defensive,RENUKA,41.50,89.61B,138.35B,N/A,N/A,0.80,57.25,39.30,46.61,"1,598",,Below 50 day moving avg.
+Shriram Finance Ltd.,Financial Services,Financial Services,SHRIRAMFIN,"2,321.80",867.69B,N/A,13.11,1.87,1.00,"2,535.00","1,202.15","2,360.23","64,052",,Below 50 day moving avg.
+Shyam Metalics and Energy Ltd.,Metals & Mining,Basic Materials,SHYAMMETL,573.15,161.48B,174.03B,13.72,1.98,0.21,737.80,254.55,657.81,"7,411",,Below 50 day moving avg.
+Siemens Ltd.,Capital Goods,Industrials,SIEMENS,"4,726.00",1.72T,1.64T,85.85,13.16,0.55,"4,972.40","3,240.00","4,383.69","8,888",Close to 52 week High,Above 50 day moving avg
+Sobha Ltd.,Realty,Real Estate,SOBHA,"1,243.30",120.81B,130.53B,133.19,4.85,0.96,"1,675.00",412.10,"1,422.93","3,406",,Below 50 day moving avg.
+Solar Industries India Ltd.,Chemicals,Basic Materials,SOLARINDS,"8,765.00",773.16B,780.46B,95.82,27.05,-0.06,"9,290.00","3,453.35","7,001.42","1,781",,Above 50 day moving avg
+Sona BLW Precision Forgings Ltd.,Automobile and Auto Components,Consumer Cyclical,SONACOMS,651.25,389.17B,390.59B,79.60,15.99,0.18,718.85,401.10,628.16,"1,375",,Above 50 day moving avg
+Sonata Software Ltd.,Information Technology,Technology,SONATSOFTW,747.45,206.54B,205.74B,66.38,14.37,0.99,870.00,369.00,780.96,"3,705",,Below 50 day moving avg.
+Star Health and Allied Insurance Company Ltd.,Financial Services,Financial Services,STARHEALTH,531.00,323.59B,325.20B,40.96,4.19,-0.09,675.00,454.80,559.94,"14,750",,Below 50 day moving avg.
+State Bank of India,Financial Services,Financial Services,SBIN,730.10,6.52T,N/A,10.23,1.61,0.81,793.40,501.55,699.67,"235,858",,Above 50 day moving avg
+Steel Authority of India Ltd.,Metals & Mining,Basic Materials,SAIL,124.95,519.62B,804.35B,16.77,0.93,1.74,150.00,77.60,125.12,"59,186",,Below 50 day moving avg.
+Sterling and Wilson Renewable Energy Ltd.,Construction,Technology,SWSOLAR,483.00,113.05B,117.07B,N/A,N/A,1.94,647.00,253.00,552.04,835,,Below 50 day moving avg.
+Sterlite Technologies Ltd.,Telecommunication,Industrials,STLTECH,120.20,48.25B,78.88B,44.45,2.26,1.10,179.05,115.65,137.77,"3,140",Close to 52 week low,Below 50 day moving avg.
+Sumitomo Chemical India Ltd.,Chemicals,Basic Materials,SUMICHEM,346.45,171.23B,157.45B,51.64,6.79,0.42,454.90,336.10,383.46,"1,642",Close to 52 week low,Below 50 day moving avg.
+Sun Pharma Advanced Research Company Ltd.,Healthcare,Healthcare,SPARC,368.00,117.43B,113.79B,N/A,35.52,0.73,423.35,162.10,370.45,407,,Below 50 day moving avg.
+Sun Pharmaceutical Industries Ltd.,Healthcare,Healthcare,SUNPHARMA,"1,560.95",3.77T,3.63T,42.35,6.30,0.52,"1,627.00",922.45,"1,475.78","41,000",Close to 52 week High,Above 50 day moving avg
+Sun TV Network Ltd.,Media Entertainment & Publication,Communication Services,SUNTV,586.50,233.06B,185.11B,12.32,2.31,0.54,734.90,393.80,639.05,"1,086",,Below 50 day moving avg.
+Sundaram Finance Ltd.,Financial Services,Financial Services,SUNDARMFIN,"3,848.00",424.31B,N/A,26.49,4.01,0.29,"4,297.95","2,210.00","3,838.41","4,737",,Above 50 day moving avg
+Sundram Fasteners Ltd.,Automobile and Auto Components,Consumer Cyclical,SUNDRMFAST,"1,030.60",214.76B,219.88B,41.75,6.68,0.66,"1,340.70",962.85,"1,153.86","2,957",,Below 50 day moving avg.
+Sunteck Realty Ltd.,Realty,Real Estate,SUNTECK,384.15,57.37B,61.33B,122.96,2.09,0.63,511.40,271.10,458.47,511,,Below 50 day moving avg.
+Suprajit Engineering Ltd.,Automobile and Auto Components,Consumer Cyclical,SUPRAJIT,398.85,56.38B,57.22B,37.95,4.44,0.84,453.85,327.65,403.08,"1,823",,Below 50 day moving avg.
+Supreme Industries Ltd.,Capital Goods,Industrials,SUPREMEIND,"3,822.20",483.95B,478.44B,45.07,10.51,0.71,"4,888.00","2,431.15","4,048.58","4,647",,Below 50 day moving avg.
+Suven Pharmaceuticals Ltd.,Healthcare,Healthcare,SUVENPHAR,614.85,157.47B,153.34B,42.41,8.13,1.37,768.00,463.30,666.73,,,Below 50 day moving avg.
+Suzlon Energy Ltd.,Capital Goods,Industrials,SUZLON,37.50,524.77B,522.56B,78.67,15.40,1.27,50.60,6.95,43.62,"5,706",,Below 50 day moving avg.
+Swan Energy Ltd.,Realty,Consumer Cyclical,SWANENERGY,573.60,176.76B,221.31B,58.27,6.98,0.00,782.25,192.65,646.12,127,,Below 50 day moving avg.
+Symphony Ltd.,Consumer Durables,Consumer Cyclical,SYMPHONY,832.80,57.40B,55.30B,49.84,8.43,0.39,"1,148.35",821.25,913.20,462,Close to 52 week low,Below 50 day moving avg.
+Syngene International Ltd.,Healthcare,Healthcare,SYNGENE,663.55,273.18B,266.43B,54.82,7.02,0.52,860.25,571.05,718.44,"6,847",,Below 50 day moving avg.
+Syrma SGS Technology Ltd.,Capital Goods,Technology,SYRMA,479.85,88.06B,91.34B,86.42,5.61,N/A,705.20,252.30,549.34,"1,052",,Below 50 day moving avg.
+TTK Prestige Ltd.,Consumer Durables,Consumer Cyclical,TTKPRESTIG,693.25,96.95B,89.92B,42.32,4.95,0.24,832.70,652.35,757.73,"1,416",,Below 50 day moving avg.
+TV18 Broadcast Ltd.,Media Entertainment & Publication,Communication Services,TV18BRDCST,49.85,87.50B,17.23B,227.98,0.52,0.77,68.70,27.35,59.79,"4,246",,Below 50 day moving avg.
+TVS Motor Company Ltd.,Automobile and Auto Components,Consumer Cyclical,TVSMOTOR,"2,013.75",965.61B,1.18T,59.00,15.27,0.38,"2,313.45","1,029.20","2,087.54","5,459",,Below 50 day moving avg.
+Tanla Platforms Ltd.,Information Technology,Technology,TANLA,830.35,113.56B,104.28B,21.12,6.50,1.65,"1,317.95",493.00,"1,016.74",615,,Below 50 day moving avg.
+Tata Chemicals Ltd.,Chemicals,Basic Materials,TATACHEM,"1,123.05",289.70B,335.47B,15.91,1.35,1.00,"1,349.00",921.65,"1,041.74","4,622",,Above 50 day moving avg
+Tata Communications Ltd.,Telecommunication,Communication Services,TATACOMM,"1,931.00",559.10B,638.56B,57.47,38.49,1.26,"2,038.40","1,172.00","1,808.04","13,426",,Above 50 day moving avg
+Tata Consultancy Services Ltd.,Information Technology,Technology,TCS,"4,019.00",15.02T,14.55T,33.85,14.92,0.54,"4,254.75","3,070.25","4,003.54","603,305",,Above 50 day moving avg
+Tata Consumer Products Ltd.,Fast Moving Consumer Goods,Consumer Defensive,TATACONSUM,"1,164.80",1.13T,1.11T,91.66,7.00,0.51,"1,269.00",690.00,"1,163.01","3,040",,Above 50 day moving avg
+Tata Elxsi Ltd.,Information Technology,Technology,TATAELXSI,"7,572.15",479.21B,469.40B,60.21,22.88,0.94,"9,200.00","5,882.55","7,849.45","11,639",,Below 50 day moving avg.
+Tata Investment Corporation Ltd.,Financial Services,Financial Services,TATAINVEST,"6,813.65",362.42B,N/A,105.27,1.53,0.24,"9,756.85","1,730.00","6,151.65",21,,Above 50 day moving avg
+Tata Motors Ltd DVR,Automobile and Auto Components,Consumer Cyclical,TATAMTRDVR,633.00,3.56T,4.21T,12.70,4.60,1.84,712.60,202.00,601.91,"81,811",,Above 50 day moving avg
+Tata Motors Ltd.,Automobile and Auto Components,Consumer Cyclical,TATAMOTORS,961.85,3.56T,4.21T,19.18,6.95,1.84,"1,065.60",400.45,907.98,"81,811",,Above 50 day moving avg
+Tata Power Co. Ltd.,Power,Utilities,TATAPOWER,385.30,1.26T,1.67T,21.35,4.16,0.79,433.30,182.35,376.85,"21,661",,Above 50 day moving avg
+Tata Steel Ltd.,Metals & Mining,Basic Materials,TATASTEEL,148.60,1.87T,2.63T,4.50,2.10,1.32,159.15,101.55,141.20,"75,263",,Above 50 day moving avg
+Tata Teleservices (Maharashtra) Ltd.,Telecommunication,Communication Services,TTML,77.95,156.36B,354.49B,N/A,6.80,0.80,109.10,49.65,89.54,368,,Below 50 day moving avg.
+Teamlease Services Ltd.,Services,Industrials,TEAMLEASE,"2,765.85",47.29B,43.94B,43.90,6.38,0.45,"3,325.30","2,007.25","3,042.12","2,051",,Below 50 day moving avg.
+Tech Mahindra Ltd.,Information Technology,Technology,TECHM,"1,257.35",1.24T,1.20T,40.11,4.71,0.58,"1,416.30",981.05,"1,309.28","146,250",,Below 50 day moving avg.
+Tejas Networks Ltd.,Telecommunication,Technology,TEJASNET,701.80,120.63B,107.91B,N/A,4.01,0.69,940.00,565.05,765.18,"1,417",,Below 50 day moving avg.
+The New India Assurance Company Ltd.,Financial Services,Financial Services,NIACL,226.25,380.11B,266.67B,40.81,1.40,0.99,324.70,94.60,250.49,"12,813",,Below 50 day moving avg.
+The Ramco Cements Ltd.,Construction Materials,Basic Materials,RAMCOCEM,793.70,189.93B,238.34B,47.39,2.70,0.27,"1,058.20",716.05,905.51,"3,507",,Below 50 day moving avg.
+Thermax Ltd.,Capital Goods,Industrials,THERMAX,"3,600.00",415.63B,398.27B,68.03,10.42,0.35,"3,894.95","2,156.20","3,365.51","4,818",,Above 50 day moving avg
+Timken India Ltd.,Capital Goods,Industrials,TIMKEN,"2,774.50",209.29B,204.49B,59.02,9.49,0.47,"3,569.85","2,524.50","3,001.81","1,345",,Below 50 day moving avg.
+Titan Company Ltd.,Consumer Durables,Consumer Cyclical,TITAN,"3,576.10",3.18T,3.26T,91.98,25.61,0.46,"3,886.95","2,466.80","3,690.23","7,857",,Below 50 day moving avg.
+Torrent Pharmaceuticals Ltd.,Healthcare,Healthcare,TORNTPHARM,"2,512.55",869.69B,905.14B,58.19,12.97,0.29,"2,744.00","1,501.55","2,573.45","13,247",,Below 50 day moving avg.
+Torrent Power Ltd.,Power,Utilities,TORNTPOWER,"1,168.80",571.53B,627.45B,30.89,4.83,0.44,"1,287.50",484.20,"1,096.18","8,113",,Above 50 day moving avg
+Trent Ltd.,Consumer Services,Consumer Cyclical,TRENT,"3,973.60",1.45T,1.49T,173.02,49.67,0.35,"4,243.95","1,288.00","3,580.93","16,586",,Above 50 day moving avg
+Trident Ltd.,Textiles,Consumer Cyclical,TRIDENT,37.15,188.80B,199.92B,44.64,4.55,0.45,52.90,25.05,43.70,"13,750",,Below 50 day moving avg.
+Triveni Engineering & Industries Ltd.,Fast Moving Consumer Goods,Consumer Defensive,TRIVENI,320.65,70.84B,71.02B,16.98,2.63,0.85,416.50,250.10,336.68,"2,624",,Below 50 day moving avg.
+Triveni Turbine Ltd.,Capital Goods,Industrials,TRITURBINE,495.30,146.67B,138.27B,59.09,16.53,0.71,518.00,291.35,434.58,722,Close to 52 week High,Above 50 day moving avg
+Tube Investments of India Ltd.,Automobile and Auto Components,Industrials,TIINDIA,"3,486.20",678.17B,659.98B,80.49,15.35,0.61,"4,119.95","2,422.00","3,703.77","3,038",,Below 50 day moving avg.
+UCO Bank,Financial Services,Financial Services,UCOBANK,49.90,604.61B,N/A,34.90,2.26,1.15,70.65,22.25,51.92,"21,698",,Below 50 day moving avg.
+UNO Minda Ltd.,Automobile and Auto Components,Consumer Cyclical,UNOMINDA,627.95,366.04B,377.94B,47.28,8.25,0.64,726.00,435.00,666.05,"13,678",,Below 50 day moving avg.
+UPL Ltd.,Chemicals,Basic Materials,UPL,462.25,349.82B,661.38B,14.86,1.21,0.95,759.95,447.80,504.37,"13,000",Close to 52 week low,Below 50 day moving avg.
+UTI Asset Management Company Ltd.,Financial Services,Financial Services,UTIAMC,844.15,105.13B,102.04B,15.30,2.64,0.57,965.00,608.00,890.75,"1,311",,Below 50 day moving avg.
+Ujjivan Small Finance Bank Ltd.,Financial Services,Financial Services,UJJIVANSFB,46.35,92.14B,N/A,7.53,1.93,0.95,63.00,23.00,54.77,"17,870",,Below 50 day moving avg.
+UltraTech Cement Ltd.,Construction Materials,Basic Materials,ULTRACEMCO,"9,514.85",2.77T,2.82T,43.23,4.93,0.50,"10,526.00","7,237.10","9,901.92","22,920",,Below 50 day moving avg.
+Union Bank of India,Financial Services,Financial Services,UNIONBANK,149.15,1.17T,N/A,8.13,1.24,1.18,161.90,60.35,142.90,"75,594",,Above 50 day moving avg
+United Breweries Ltd.,Fast Moving Consumer Goods,Consumer Defensive,UBL,"1,695.50",457.33B,450.95B,135.14,11.40,0.44,"1,908.00","1,353.50","1,764.69","2,737",,Below 50 day moving avg.
+United Spirits Ltd.,Fast Moving Consumer Goods,Consumer Defensive,MCDOWELL-N,"1,087.65",787.31B,769.11B,61.99,11.56,0.40,"1,182.15",735.90,"1,116.73","2,957",,Below 50 day moving avg.
+Usha Martin Ltd.,Capital Goods,Basic Materials,USHAMART,290.65,87.14B,88.14B,20.60,4.05,0.67,379.90,205.40,323.76,"2,152",,Below 50 day moving avg.
+V-Guard Industries Ltd.,Consumer Durables,Industrials,VGUARD,320.10,141.08B,143.59B,60.57,8.38,0.26,352.00,237.50,309.94,"2,647",,Above 50 day moving avg
+V-Mart Retail Ltd.,Consumer Services,Consumer Cyclical,VMART,"2,004.55",39.86B,53.49B,180.01,5.23,0.57,"2,444.95","1,595.00","2,032.82","9,333",,Below 50 day moving avg.
+V.I.P. Industries Ltd.,Consumer Durables,Consumer Cyclical,VIPIND,454.95,64.75B,69.55B,87.91,9.07,0.50,722.85,450.05,540.92,"4,190",Close to 52 week low,Below 50 day moving avg.
+Vaibhav Global Ltd.,Consumer Durables,Consumer Cyclical,VAIBHAVGBL,369.90,62.29B,62.67B,48.74,5.09,0.31,542.40,268.70,449.98,"1,199",,Below 50 day moving avg.
+Vardhman Textiles Ltd.,Textiles,Consumer Cyclical,VTL,417.35,121.53B,116.60B,20.27,1.38,0.48,455.95,270.00,419.48,"25,194",,Below 50 day moving avg.
+Varroc Engineering Ltd.,Automobile and Auto Components,Consumer Cyclical,VARROC,486.20,74.56B,86.28B,14.08,7.21,1.16,632.00,239.60,524.38,"3,725",,Below 50 day moving avg.
+Varun Beverages Ltd.,Fast Moving Consumer Goods,Consumer Defensive,VBL,"1,418.05",1.87T,1.92T,90.80,26.91,0.57,"1,561.95",651.47,"1,361.61","9,973",,Above 50 day moving avg
+Vedant Fashions Ltd.,Consumer Services,Consumer Cyclical,MANYAVAR,908.75,220.42B,219.29B,54.09,16.60,-0.33,"1,487.90",895.00,"1,032.24",744,Close to 52 week low,Below 50 day moving avg.
+Vedanta Ltd.,Metals & Mining,Basic Materials,VEDL,269.35,1.01T,1.46T,21.53,3.19,1.40,300.95,208.00,270.14,"17,082",,Below 50 day moving avg.
+Vijaya Diagnostic Centre Ltd.,Healthcare,Healthcare,VIJAYA,610.75,62.27B,61.81B,55.18,10.42,-0.05,718.80,349.25,644.89,"1,996",,Below 50 day moving avg.
+Vinati Organics Ltd.,Chemicals,Basic Materials,VINATIORGA,"1,656.40",169.43B,166.65B,46.25,7.32,0.23,"2,034.00","1,560.05","1,671.62","1,097",,Below 50 day moving avg.
+Vodafone Idea Ltd.,Telecommunication,Communication Services,IDEA,12.90,641.11B,3.04T,N/A,4.20,0.61,18.40,5.70,14.85,"9,370",,Below 50 day moving avg.
+Voltas Ltd.,Consumer Durables,Industrials,VOLTAS,"1,034.85",349.61B,340.98B,125.04,6.12,0.38,"1,133.50",745.00,"1,063.23","1,689",,Below 50 day moving avg.
+Welspun Corp Ltd.,Capital Goods,Basic Materials,WELCORP,505.85,134.84B,138.13B,12.56,2.67,0.77,623.90,186.00,556.92,"4,786",,Below 50 day moving avg.
+Welspun Living Ltd.,Textiles,Consumer Cyclical,WELSPUNLIV,147.30,141.76B,154.68B,21.57,3.37,0.36,171.25,62.00,151.40,"30,000",,Below 50 day moving avg.
+Westlife Foodworld Ltd.,Consumer Services,Consumer Cyclical,WESTLIFE,736.90,115.06B,127.44B,130.02,20.43,0.32,"1,024.95",658.00,804.22,"11,596",,Below 50 day moving avg.
+Whirlpool of India Ltd.,Consumer Durables,Consumer Cyclical,WHIRLPOOL,"1,265.50",160.26B,143.98B,79.26,4.48,0.41,"1,733.00","1,186.10","1,317.45","2,377",,Below 50 day moving avg.
+Wipro Ltd.,Information Technology,Technology,WIPRO,500.45,2.66T,2.50T,23.81,3.81,0.72,545.90,352.00,499.47,"250,000",,Above 50 day moving avg
+Yes Bank Ltd.,Financial Services,Financial Services,YESBANK,22.90,674.03B,N/A,67.00,1.62,0.55,32.85,14.70,25.31,"27,517",,Below 50 day moving avg.
+ZF Commercial Vehicle Control Systems India Ltd.,Automobile and Auto Components,Consumer Cyclical,ZFCVINDIA,"15,504.35",299.44B,286.46B,73.49,11.56,-0.04,"17,700.00","9,883.30","15,341.84","2,181",,Above 50 day moving avg
+Zee Entertainment Enterprises Ltd.,Media Entertainment & Publication,Communication Services,ZEEL,142.50,137.31B,132.89B,120.13,1.27,0.76,299.70,141.00,184.62,"3,461",Close to 52 week low,Below 50 day moving avg.
+Zensar Technolgies Ltd.,Information Technology,Technology,ZENSARTECH,567.40,132.29B,117.09B,21.79,4.07,0.90,644.00,258.80,557.74,"7,797",,Above 50 day moving avg
+Zomato Ltd.,Consumer Services,Consumer Cyclical,ZOMATO,158.50,1.37T,1.32T,N/A,6.95,0.19,175.60,49.00,148.75,"3,440",,Above 50 day moving avg
+Zydus Lifesciences Ltd.,Healthcare,Healthcare,ZYDUSLIFE,980.00,1.00T,984.38B,33.94,5.32,0.54,"1,015.50",473.35,841.91,"23,026",Close to 52 week High,Above 50 day moving avg
+Zydus Wellness Ltd.,Fast Moving Consumer Goods,Consumer Defensive,ZYDUSWELL,"1,458.95",93.82B,94.45B,35.82,1.80,0.10,"1,721.00","1,425.05","1,595.17",975,Close to 52 week low,Below 50 day moving avg.
+eClerx Services Ltd.,Services,Technology,ECLERX,"2,400.00",118.27B,109.11B,23.55,6.01,1.09,"2,828.00","1,272.00","2,542.71","13,259",,Below 50 day moving avg.
